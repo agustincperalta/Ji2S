@@ -1,10 +1,11 @@
-package com.kauze77;
+package Questions;
 
-public class IterationQ1 {
+public class IterationQ2 {
 
     public static void main(String[] args) {
-        for (int i = 1; i<= 4; i++){
+        for (int i = 1; i < 4; i++){
             System.out.println("YES");
+            System.out.println("NO");
         }
         System.out.println("OK");
     }

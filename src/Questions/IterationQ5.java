@@ -1,4 +1,4 @@
-package com.kauze77;
+package Questions;
 
 public class IterationQ5 {
     public static void main(String[] args) {
