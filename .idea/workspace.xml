@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d6f1b157-31df-4930-8498-d7d1285d7c4e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/VendingMachine.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Exercises/VendingMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
+            <state relative-caret-position="128">
+              <caret line="81" column="70" selection-start-line="81" selection-start-column="70" selection-end-line="81" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -39,6 +38,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Agustín Peralta &lt;agumx77@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -77,32 +81,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ji2S" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ji2S" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ji2S" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -226,7 +205,7 @@
       <workItem from="1559610040483" duration="68000" />
       <workItem from="1559684821996" duration="6558000" />
       <workItem from="1559695662287" duration="3523000" />
-      <workItem from="1559700409862" duration="813000" />
+      <workItem from="1559700409862" duration="2424000" />
     </task>
     <task id="LOCAL-00001" summary="Añade el ejercicio 2 del capitulo 4 Iteration">
       <created>1559524933539</created>
@@ -277,15 +256,28 @@
       <option name="project" value="LOCAL" />
       <updated>1559700327301</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Añade Programa Vending Machine con Enum">
+      <created>1559701267940</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559701267940</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Añade mejora de mensaje de confimación en programa Vending Machine">
+      <created>1559702647781</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1559702647781</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15895000" />
+    <option name="totallyTimeSpent" value="17506000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="-1" width="1372" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -297,7 +289,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32713178" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49924242" weight="0.3255814" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="3" sideWeight="0.49924242" visible="true" weight="0.3255814" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" weight="0.32868218" />
       <window_info anchor="bottom" id="Message" order="6" />
@@ -306,7 +298,7 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info active="true" anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5007576" side_tool="true" visible="true" weight="0.086821705" />
+      <window_info anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5007576" side_tool="true" weight="0.82790697" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -369,7 +361,9 @@
     <MESSAGE value="Añade el ejercicio 7 del capitulo Iteración con funciones aumentadas" />
     <MESSAGE value="Añade archivos de configuración" />
     <MESSAGE value="Avance Programa Vending Machine" />
-    <option name="LAST_COMMIT_MESSAGE" value="Avance Programa Vending Machine" />
+    <MESSAGE value="Añade Programa Vending Machine con Enum" />
+    <MESSAGE value="Añade mejora de mensaje de confimación en programa Vending Machine" />
+    <option name="LAST_COMMIT_MESSAGE" value="Añade mejora de mensaje de confimación en programa Vending Machine" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Questions/Main.java" />
@@ -421,8 +415,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/VendingMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
+        <state relative-caret-position="128">
+          <caret line="81" column="70" selection-start-line="81" selection-start-column="70" selection-end-line="81" selection-end-column="70" />
         </state>
       </provider>
     </entry>
