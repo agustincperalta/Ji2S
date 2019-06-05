@@ -1,4 +1,4 @@
-package Exercises;
+package Exercises4;
 // Adapt it so that the user is allowed to enter a size only between 2 and 20
 // Adapt the program further so that the user can choose whether of not to have another go
 

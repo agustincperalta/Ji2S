@@ -1,4 +1,4 @@
-package Exercises;
+package Exercises4;
 
 import java.util.Scanner;
 
@@ -79,7 +79,7 @@ public class VendingMachine {
                     flag = false;
                     break;
                 default:
-                    System.out.println("there are not a such option!\n");
+                    System.out.println("Error! There are not a such option!\n");
 
             }
         } while (flag);

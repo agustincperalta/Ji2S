@@ -1,4 +1,4 @@
-package Exercises;
+package Exercises4;
 
 public class Iteration3 {
 

@@ -1,4 +1,4 @@
-package Exercises;
+package Exercises4;
 /*Using a for loop, write a program that displays a "6 times" multiplication
  * table; the output should look like this:
  * 1 x 6 = 6

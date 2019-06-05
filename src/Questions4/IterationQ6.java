@@ -1,4 +1,4 @@
-package Questions;
+package Questions4;
 
 public class IterationQ6 {
     public static void main(String[] args) {
