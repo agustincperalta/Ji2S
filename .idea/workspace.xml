@@ -34,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Exercises/DisplayStars4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="36" column="83" selection-start-line="36" selection-start-column="83" selection-end-line="36" selection-end-column="83" />
+            <state relative-caret-position="936">
+              <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -229,7 +229,7 @@
       <workItem from="1559523864277" duration="1582000" />
       <workItem from="1559610040483" duration="68000" />
       <workItem from="1559684821996" duration="6558000" />
-      <workItem from="1559695662287" duration="1678000" />
+      <workItem from="1559695662287" duration="1922000" />
     </task>
     <task id="LOCAL-00001" summary="Añade el ejercicio 2 del capitulo 4 Iteration">
       <created>1559524933539</created>
@@ -259,15 +259,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559692057438</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Añade el ejercicio 7 del capitulo Iteración con funciones aumentadas">
+      <created>1559697584029</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559697584029</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13237000" />
+    <option name="totallyTimeSpent" value="13481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="-1" width="1372" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -279,16 +285,16 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32847896" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49924242" weight="0.3263328" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="3" sideWeight="0.49924242" visible="true" weight="0.3255814" />
       <window_info anchor="bottom" id="Terminal" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" weight="0.32868218" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49924242" visible="true" weight="0.39689922" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49924242" weight="0.39689922" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info active="true" anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5007576" side_tool="true" visible="true" weight="0.39689922" />
+      <window_info anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5007576" side_tool="true" weight="0.39689922" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -348,19 +354,8 @@
     <MESSAGE value="Añade ejercicio 3 del capitulo iteración" />
     <MESSAGE value="Añade el ejercicio 6 del capitulo Iteración" />
     <MESSAGE value="Añade el ejercicio 6 del capitulo Iteración con funciones aumentadas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Añade el ejercicio 6 del capitulo Iteración con funciones aumentadas" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Exercises/DisplayStars4.java</url>
-          <line>33</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Añade el ejercicio 7 del capitulo Iteración con funciones aumentadas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Añade el ejercicio 7 del capitulo Iteración con funciones aumentadas" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Questions/Main.java" />
@@ -405,8 +400,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/DisplayStars4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="36" column="83" selection-start-line="36" selection-start-column="83" selection-end-line="36" selection-end-column="83" />
+        <state relative-caret-position="936">
+          <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
         </state>
       </provider>
     </entry>
