@@ -28,14 +28,17 @@ enum Elementos {
     // Elementos
     GUM(0), CHOCOLATE(0), POPCORN(0), JUICE(0);
     private int num;
+
     // Constructor
     Elementos(int num) {
         this.num = num;
     }
+
     // Getter de num
     public int getNum() {
         return num;
     }
+
     // Aumenta el valor de num de cada elemento
     public void addNum() {
         num++;
@@ -54,19 +57,19 @@ public class VendingMachine {
 
             switch (choice) {
                 case 1:
-                    System.out.println("Here is your gum");
+                    System.out.println("Here is your gum\n");
                     Elementos.GUM.addNum();
                     break;
                 case 2:
-                    System.out.println("Here is your chocolate");
+                    System.out.println("Here is your chocolate\n");
                     Elementos.CHOCOLATE.addNum();
                     break;
                 case 3:
-                    System.out.println("Here is your popcorn");
+                    System.out.println("Here is your popcorn\n");
                     Elementos.POPCORN.addNum();
                     break;
                 case 4:
-                    System.out.println("Here is your juice");
+                    System.out.println("Here is your juice\n");
                     Elementos.JUICE.addNum();
                     break;
                 case 5:
@@ -75,6 +78,8 @@ public class VendingMachine {
                 case 6:
                     flag = false;
                     break;
+                default:
+                    System.out.println("there are not a such option!\n");
 
             }
         } while (flag);
