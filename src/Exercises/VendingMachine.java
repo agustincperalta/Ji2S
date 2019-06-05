@@ -24,41 +24,60 @@ import java.util.Scanner;
  * error message should be displayed such as:
  * Error, options 1-6 only!
  * */
-public class VendingMachine {
-enum elementos{
+enum Elementos {
+    // Elementos
     GUM(0), CHOCOLATE(0), POPCORN(0), JUICE(0);
-    int num;
-    elementos(num) {
+    private int num;
+    // Constructor
+    Elementos(int num) {
         this.num = num;
     }
-
+    // Getter de num
     public int getNum() {
         return num;
     }
+    // Aumenta el valor de num de cada elemento
+    public void addNum() {
+        num++;
+    }
 }
+
+public class VendingMachine {
+
     public static void main(String[] args) {
         Scanner kbd = new Scanner(System.in);
-        int choice;
+        boolean flag = true;
         do {
 
             drawMenu();
-            switch (choice){
+            int choice = kbd.nextInt();
+
+            switch (choice) {
                 case 1:
                     System.out.println("Here is your gum");
+                    Elementos.GUM.addNum();
                     break;
                 case 2:
                     System.out.println("Here is your chocolate");
+                    Elementos.CHOCOLATE.addNum();
                     break;
                 case 3:
                     System.out.println("Here is your popcorn");
+                    Elementos.POPCORN.addNum();
                     break;
                 case 4:
                     System.out.println("Here is your juice");
+                    Elementos.JUICE.addNum();
                     break;
                 case 5:
                     showSoldItems();
+                    break;
+                case 6:
+                    flag = false;
+                    break;
+
             }
-        } while (true);
+        } while (flag);
 
 
     }
@@ -71,7 +90,10 @@ enum elementos{
         System.out.println("[5] Display total sold so far");
         System.out.println("[6] Quit");
     }
-    public static void showSoldItems(){
 
+    public static void showSoldItems() {
+        for (Elementos e : Elementos.values()) {
+            System.out.println(e + " tiene " + e.getNum() + " elementos");
+        }
     }
 }
