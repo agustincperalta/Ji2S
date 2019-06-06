@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6f1b157-31df-4930-8498-d7d1285d7c4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Questions5/MethodsQ5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises5/ConvertPtoK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions5/MethodsQ5.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,10 +49,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Questions5/MethodsQ5.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises5/ConvertPtoK.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="192">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -102,7 +103,7 @@
         <option value="$PROJECT_DIR$/src/Exercises4/VendingMachine.java" />
         <option value="$PROJECT_DIR$/src/Questions5/SomeApp.java" />
         <option value="$PROJECT_DIR$/src/Questions5/MethodsQ3.java" />
-        <option value="$PROJECT_DIR$/src/Questions5/MethodsQ5.java" />
+        <option value="$PROJECT_DIR$/src/Exercises5/ConvertPtoK.java" />
       </list>
     </option>
   </component>
@@ -137,7 +138,7 @@
               <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ji2S" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Questions5" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -169,7 +170,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodsQ5">
+  <component name="RunManager" selected="Application.ConvertPtoK">
+    <configuration name="ConvertPtoK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises5.ConvertPtoK" />
+      <module name="Ji2S" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DisplayStars4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises4.DisplayStars4" />
       <module name="Ji2S" />
@@ -185,19 +199,6 @@
     </configuration>
     <configuration name="MethodsQ3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Questions5.MethodsQ3" />
-      <module name="Ji2S" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Questions5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodsQ5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Questions5.MethodsQ5" />
       <module name="Ji2S" />
       <extension name="coverage">
         <pattern>
@@ -240,11 +241,11 @@
       <item itemvalue="Application.VendingMachine" />
       <item itemvalue="Application.SomeApp" />
       <item itemvalue="Application.MethodsQ3" />
-      <item itemvalue="Application.MethodsQ5" />
+      <item itemvalue="Application.ConvertPtoK" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodsQ5" />
+        <item itemvalue="Application.ConvertPtoK" />
         <item itemvalue="Application.MethodsQ3" />
         <item itemvalue="Application.SomeApp" />
         <item itemvalue="Application.VendingMachine" />
@@ -269,9 +270,7 @@
       <workItem from="1559684821996" duration="6558000" />
       <workItem from="1559695662287" duration="3523000" />
       <workItem from="1559700409862" duration="3546000" />
-      <workItem from="1559704489812" duration="1550000" />
-      <workItem from="1559738321642" duration="20000" />
-      <workItem from="1559784909259" duration="376000" />
+      <workItem from="1559704489812" duration="1301000" />
     </task>
     <task id="LOCAL-00001" summary="Añade el ejercicio 2 del capitulo 4 Iteration">
       <created>1559524933539</created>
@@ -343,18 +342,11 @@
       <option name="project" value="LOCAL" />
       <updated>1559702909487</updated>
     </task>
-    <task id="LOCAL-00011" summary="Añade la pregunta 3 del capitulo 5, correcciones de organización de paquetes">
-      <created>1559705865894</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1559705865894</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20574000" />
+    <option name="totallyTimeSpent" value="20976000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="-1" width="1372" height="745" extended-state="6" />
@@ -370,16 +362,16 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32713178" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49924242" weight="0.32507738" />
+      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49772727" weight="0.32200646" />
       <window_info anchor="bottom" id="Terminal" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" weight="0.32868218" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5022727" side_tool="true" weight="0.32362458" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49924242" weight="0.39689922" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info active="true" anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5007576" side_tool="true" visible="true" weight="0.21197411" />
+      <window_info active="true" anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5022727" side_tool="true" visible="true" weight="0.32200646" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -444,8 +436,9 @@
     <MESSAGE value="Avance Programa Vending Machine" />
     <MESSAGE value="Añade Programa Vending Machine con Enum" />
     <MESSAGE value="Añade mejora de mensaje de confimación en programa Vending Machine" />
-    <MESSAGE value="Añade la pregunta 3 del capitulo 5, correcciones de organización de paquetes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Añade la pregunta 3 del capitulo 5, correcciones de organización de paquetes" />
+    <MESSAGE value="fixup! Añade la pregunta 5 del capitulo 5" />
+    <MESSAGE value="Añade la pregunta 5 del capitulo 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Añade la pregunta 5 del capitulo 5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Questions4/Main.java" />
@@ -516,10 +509,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions5/MethodsQ5.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercises5/ConvertPtoK.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="192">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
         </state>
       </provider>
     </entry>
