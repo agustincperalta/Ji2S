@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6f1b157-31df-4930-8498-d7d1285d7c4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Questions5/MethodsQ3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions5/SomeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions5/MethodsQ5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/DisplayEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises4/DisplayEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/DisplayStars4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises4/DisplayStars4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/Iteration3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises4/Iteration3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/Tables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises4/Tables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises4/VendingMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/IterationQ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions4/IterationQ1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/IterationQ2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions4/IterationQ2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/IterationQ3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions4/IterationQ3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/IterationQ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions4/IterationQ4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/IterationQ5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions4/IterationQ5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/IterationQ6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions4/IterationQ6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/IterationQ7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions4/IterationQ7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/IterationQ8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions4/IterationQ8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/IterationQ9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions4/IterationQ9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions4/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +23,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises4/VendingMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
+            <state relative-caret-position="1944">
               <caret line="81" column="48" selection-start-line="81" selection-start-column="48" selection-end-line="81" selection-end-column="48" />
             </state>
           </provider>
@@ -49,16 +33,25 @@
         <entry file="file://$PROJECT_DIR$/src/Questions5/SomeApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="600">
-              <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Questions5/MethodsQ3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="521">
+              <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Questions5/MethodsQ3.java">
+        <entry file="file://$PROJECT_DIR$/src/Questions5/MethodsQ5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+            <state relative-caret-position="264">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -109,6 +102,7 @@
         <option value="$PROJECT_DIR$/src/Exercises4/VendingMachine.java" />
         <option value="$PROJECT_DIR$/src/Questions5/SomeApp.java" />
         <option value="$PROJECT_DIR$/src/Questions5/MethodsQ3.java" />
+        <option value="$PROJECT_DIR$/src/Questions5/MethodsQ5.java" />
       </list>
     </option>
   </component>
@@ -175,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodsQ3">
+  <component name="RunManager" selected="Application.MethodsQ5">
     <configuration name="DisplayStars4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises4.DisplayStars4" />
       <module name="Ji2S" />
@@ -202,8 +196,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SomeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Questions5.SomeApp" />
+    <configuration name="MethodsQ5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions5.MethodsQ5" />
       <module name="Ji2S" />
       <extension name="coverage">
         <pattern>
@@ -215,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises4.Tables" />
+    <configuration name="SomeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions5.SomeApp" />
       <module name="Ji2S" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises4.*" />
+          <option name="PATTERN" value="Questions5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,19 +236,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Tables" />
       <item itemvalue="Application.DisplayStars4" />
       <item itemvalue="Application.VendingMachine" />
       <item itemvalue="Application.SomeApp" />
       <item itemvalue="Application.MethodsQ3" />
+      <item itemvalue="Application.MethodsQ5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodsQ5" />
         <item itemvalue="Application.MethodsQ3" />
         <item itemvalue="Application.SomeApp" />
         <item itemvalue="Application.VendingMachine" />
         <item itemvalue="Application.DisplayStars4" />
-        <item itemvalue="Application.Tables" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +269,9 @@
       <workItem from="1559684821996" duration="6558000" />
       <workItem from="1559695662287" duration="3523000" />
       <workItem from="1559700409862" duration="3546000" />
-      <workItem from="1559704489812" duration="1301000" />
+      <workItem from="1559704489812" duration="1550000" />
+      <workItem from="1559738321642" duration="20000" />
+      <workItem from="1559784909259" duration="376000" />
     </task>
     <task id="LOCAL-00001" summary="Añade el ejercicio 2 del capitulo 4 Iteration">
       <created>1559524933539</created>
@@ -347,14 +343,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559702909487</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Añade la pregunta 3 del capitulo 5, correcciones de organización de paquetes">
+      <created>1559705865894</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1559705865894</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19929000" />
+    <option name="totallyTimeSpent" value="20574000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="-1" width="1372" height="772" extended-state="6" />
+    <frame x="-3" y="-1" width="1372" height="745" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -362,7 +365,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" weight="0.32954547" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49759614" visible="true" weight="0.26060605" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49759614" visible="true" weight="0.2689394" />
       <window_info id="Structure" order="6" sideWeight="0.50240386" side_tool="true" weight="0.26060605" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32713178" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
@@ -376,7 +379,7 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info active="true" anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5007576" side_tool="true" visible="true" weight="0.2124031" />
+      <window_info active="true" anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5007576" side_tool="true" visible="true" weight="0.21197411" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -441,7 +444,8 @@
     <MESSAGE value="Avance Programa Vending Machine" />
     <MESSAGE value="Añade Programa Vending Machine con Enum" />
     <MESSAGE value="Añade mejora de mensaje de confimación en programa Vending Machine" />
-    <option name="LAST_COMMIT_MESSAGE" value="Añade mejora de mensaje de confimación en programa Vending Machine" />
+    <MESSAGE value="Añade la pregunta 3 del capitulo 5, correcciones de organización de paquetes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Añade la pregunta 3 del capitulo 5, correcciones de organización de paquetes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Questions4/Main.java" />
@@ -493,7 +497,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises4/VendingMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
+        <state relative-caret-position="1944">
           <caret line="81" column="48" selection-start-line="81" selection-start-column="48" selection-end-line="81" selection-end-column="48" />
         </state>
       </provider>
@@ -501,14 +505,21 @@
     <entry file="file://$PROJECT_DIR$/src/Questions5/SomeApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
-          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Questions5/MethodsQ3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+        <state relative-caret-position="521">
+          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions5/MethodsQ5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
