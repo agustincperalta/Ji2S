@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6f1b157-31df-4930-8498-d7d1285d7c4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercises5/ConvertPtoK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises5/RectangleAP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions5/MethodsQ5.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,39 +19,21 @@
     <favorites_list name="Ji2S" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises4/VendingMachine.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises5/ConvertPtoK.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1944">
-              <caret line="81" column="48" selection-start-line="81" selection-start-column="48" selection-end-line="81" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Questions5/SomeApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Questions5/MethodsQ3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+            <state relative-caret-position="244">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Exercises5/ConvertPtoK.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises5/RectangleAP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            <state relative-caret-position="172">
+              <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -104,6 +85,7 @@
         <option value="$PROJECT_DIR$/src/Questions5/SomeApp.java" />
         <option value="$PROJECT_DIR$/src/Questions5/MethodsQ3.java" />
         <option value="$PROJECT_DIR$/src/Exercises5/ConvertPtoK.java" />
+        <option value="$PROJECT_DIR$/src/Exercises5/RectangleAP.java" />
       </list>
     </option>
   </component>
@@ -122,6 +104,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,7 +127,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConvertPtoK">
+  <component name="RunManager" selected="Application.RectangleAP">
     <configuration name="ConvertPtoK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises5.ConvertPtoK" />
       <module name="Ji2S" />
@@ -184,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisplayStars4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises4.DisplayStars4" />
+    <configuration name="MethodsQ3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions5.MethodsQ3" />
       <module name="Ji2S" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises4.*" />
+          <option name="PATTERN" value="Questions5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodsQ3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Questions5.MethodsQ3" />
+    <configuration name="RectangleAP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises5.RectangleAP" />
       <module name="Ji2S" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Questions5.*" />
+          <option name="PATTERN" value="Exercises5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,19 +219,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DisplayStars4" />
       <item itemvalue="Application.VendingMachine" />
       <item itemvalue="Application.SomeApp" />
       <item itemvalue="Application.MethodsQ3" />
       <item itemvalue="Application.ConvertPtoK" />
+      <item itemvalue="Application.RectangleAP" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RectangleAP" />
         <item itemvalue="Application.ConvertPtoK" />
         <item itemvalue="Application.MethodsQ3" />
         <item itemvalue="Application.SomeApp" />
         <item itemvalue="Application.VendingMachine" />
-        <item itemvalue="Application.DisplayStars4" />
       </list>
     </recent_temporary>
   </component>
@@ -271,6 +253,7 @@
       <workItem from="1559695662287" duration="3523000" />
       <workItem from="1559700409862" duration="3546000" />
       <workItem from="1559704489812" duration="1301000" />
+      <workItem from="1559834135256" duration="682000" />
     </task>
     <task id="LOCAL-00001" summary="Añade el ejercicio 2 del capitulo 4 Iteration">
       <created>1559524933539</created>
@@ -342,14 +325,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559702909487</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Añade el ejercicio 1 del capitulo 5">
+      <created>1559786509122</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1559786509122</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20976000" />
+    <option name="totallyTimeSpent" value="22565000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="-1" width="1372" height="745" extended-state="6" />
+    <frame x="-3" y="-1" width="1372" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -357,12 +347,12 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" weight="0.32954547" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49759614" visible="true" weight="0.2689394" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49759614" visible="true" weight="0.27348486" />
       <window_info id="Structure" order="6" sideWeight="0.50240386" side_tool="true" weight="0.26060605" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32713178" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49772727" weight="0.32200646" />
+      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.4969697" visible="true" weight="0.32093024" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5022727" side_tool="true" weight="0.32362458" />
       <window_info anchor="bottom" id="Message" order="6" />
@@ -371,7 +361,7 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info active="true" anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5022727" side_tool="true" visible="true" weight="0.32200646" />
+      <window_info active="true" anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5030303" side_tool="true" visible="true" weight="0.32093024" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -438,7 +428,8 @@
     <MESSAGE value="Añade mejora de mensaje de confimación en programa Vending Machine" />
     <MESSAGE value="fixup! Añade la pregunta 5 del capitulo 5" />
     <MESSAGE value="Añade la pregunta 5 del capitulo 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Añade la pregunta 5 del capitulo 5" />
+    <MESSAGE value="Añade el ejercicio 1 del capitulo 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Añade el ejercicio 1 del capitulo 5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Questions4/Main.java" />
@@ -511,8 +502,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises5/ConvertPtoK.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        <state relative-caret-position="244">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises5/RectangleAP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
         </state>
       </provider>
     </entry>
