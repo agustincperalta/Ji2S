@@ -29,9 +29,11 @@ public class Tables {
             do {
                 System.out.println("Quieres volver a correr el programa?");
                 answer = kbd2.nextLine();
-                if (!answer.equalsIgnoreCase("n") && !answer.equalsIgnoreCase("y"))
+                if (!answer.equalsIgnoreCase("n") &&
+                        !answer.equalsIgnoreCase("y"))
                     System.out.println("valor no valido");
-            }while (!answer.equalsIgnoreCase("n") && !answer.equalsIgnoreCase("y"));
+            } while (!answer.equalsIgnoreCase("n") &&
+                    !answer.equalsIgnoreCase("y"));
 
             if (answer.equalsIgnoreCase("n")) {
                 break;
