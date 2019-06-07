@@ -9,6 +9,7 @@ package Exercises5;
 // a Celcius Temperature and F a Fahrenheit temperature:
 // F = [(9C)/5] + 32
 // C = [5(F -32)]/ 9
+
 // (b) Adapt the above program so that the user is not allowed to
 // enter a temperature below absolute zero; this is -273.15C or
 // -459.67F
@@ -36,14 +37,26 @@ public class TempConverter {
 
             switch (value) {
                 case 1:
-                    System.out.println("C° ");
-                    int celcius = kbd.nextInt();
+                    int celcius = 0;
+                    do {
+                        System.out.println("C° ");
+                        celcius = kbd.nextInt();
+                        if (isValidC(celcius)){
+                            System.out.println("Valor invalido");
+                        }
+                    } while (isValidC(celcius));
                     System.out.println(celcius + " C° = " + convertCF(celcius) + "F°");
                     break;
                 case 2:
-                    System.out.println("F°");
-                    int fhar = kbd.nextInt();
-                    System.out.println(value + "F° = " + convertCF(fhar) + "C°");
+                    int fhar = 0;
+                    do {
+                        System.out.println("F° ");
+                        fhar = kbd.nextInt();
+                        if (isValidC(fhar)){
+                            System.out.println("Valor invalido");
+                        }
+                    } while (isValidF(fhar));
+                    System.out.println(fhar + "F° = " + convertCF(fhar) + "C°");
                     break;
             }
             do {
@@ -58,7 +71,7 @@ public class TempConverter {
 
             if (answer.equalsIgnoreCase("n")) {
                 break;
-            } else if(answer.equalsIgnoreCase("y")){
+            } else if (answer.equalsIgnoreCase("y")) {
                 continue;
             }
         } while (anotherFlag);
@@ -79,6 +92,14 @@ public class TempConverter {
 
     // Fahrenheit to Celcius
     static double convertFC(double fahr) {
-        return (5 * (fahr - 32)) / 9;
+        return (fahr - 32) * ((double) 5 / (double) 9);
+    }
+
+    static boolean isValidC(double celcius) {
+        return celcius <= -273.15;
+    }
+
+    static boolean isValidF(double fhar) {
+        return fhar <= -459.67;
     }
 }
