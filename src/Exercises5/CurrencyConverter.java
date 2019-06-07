@@ -56,7 +56,10 @@ public class CurrencyConverter {
             } while (!answer.equalsIgnoreCase("y") && !answer.equalsIgnoreCase("n"));
             // Mientras answer sea distinta a "y" y "n" va a seguir preguntando por una respuesta valida
 
-            if (answer.equalsIgnoreCase("n")) break; // Sí anwer es igual a "n", se acaba el programa
+            if (answer.equalsIgnoreCase("n")) {
+                System.out.println("Adios!");
+                break;
+            } // Sí anwer es igual a "n", se acaba el programa
 
         } while (answer.equalsIgnoreCase("y")); // mientras answer sea y --> hacer otra operación
 
