@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6f1b157-31df-4930-8498-d7d1285d7c4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Questions6/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions6/TemperatureReadings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions6/Students.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,11 +38,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Questions6/TemperatureReadings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="46" column="43" lean-forward="true" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+            <state relative-caret-position="999">
+              <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Questions6/Students.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -110,6 +118,7 @@
         <option value="$PROJECT_DIR$/src/Exercises5/TempConverter.java" />
         <option value="$PROJECT_DIR$/src/Questions6/Question2.java" />
         <option value="$PROJECT_DIR$/src/Questions6/TemperatureReadings.java" />
+        <option value="$PROJECT_DIR$/src/Questions6/Students.java" />
       </list>
     </option>
   </component>
@@ -181,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TemperatureReadings">
+  <component name="RunManager" selected="Application.Students">
     <configuration name="CurrencyConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises5.CurrencyConverter" />
       <module name="Ji2S" />
@@ -208,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises4.Tables" />
+    <configuration name="Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions6.Students" />
       <module name="Ji2S" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises4.*" />
+          <option name="PATTERN" value="Questions6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,18 +258,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.CurrencyConverter" />
-      <item itemvalue="Application.Tables" />
       <item itemvalue="Application.TempConverter" />
       <item itemvalue="Application.Question2" />
       <item itemvalue="Application.TemperatureReadings" />
+      <item itemvalue="Application.Students" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Students" />
         <item itemvalue="Application.TemperatureReadings" />
         <item itemvalue="Application.Question2" />
         <item itemvalue="Application.TempConverter" />
         <item itemvalue="Application.CurrencyConverter" />
-        <item itemvalue="Application.Tables" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +294,7 @@
       <workItem from="1559834135256" duration="2770000" />
       <workItem from="1559854441320" duration="7393000" />
       <workItem from="1559951615995" duration="684000" />
-      <workItem from="1560043452044" duration="3468000" />
+      <workItem from="1560043452044" duration="5724000" />
     </task>
     <task id="LOCAL-00001" summary="Añade el ejercicio 2 del capitulo 4 Iteration">
       <created>1559524933539</created>
@@ -385,11 +394,25 @@
       <option name="project" value="LOCAL" />
       <updated>1559921329233</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Añade el ejercicio 3 capitulo 6: TemperatureReadings">
+      <created>1560047197313</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1560047197313</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Corrige el ejercicio 3 capitulo 6: TemperatureReadings&#10;cambia el método wasHot usando un bucle for normal en lugar del bucle &#10;for each">
+      <created>1560049610589</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1560049610590</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40719000" />
+    <option name="totallyTimeSpent" value="42975000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="-1" width="1372" height="745" extended-state="6" />
@@ -487,7 +510,9 @@
     <MESSAGE value="Añade el ejercicio 3 del capitulo 5" />
     <MESSAGE value="Añade el ejercicio 4a y 4b del capitulo 5. Incluye pseudo-código" />
     <MESSAGE value="Añade el ejercicio 5a capitulo 5: TempConverter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Añade el ejercicio 5a capitulo 5: TempConverter" />
+    <MESSAGE value="Añade el ejercicio 3 capitulo 6: TemperatureReadings" />
+    <MESSAGE value="Corrige el ejercicio 3 capitulo 6: TemperatureReadings&#10;cambia el método wasHot usando un bucle for normal en lugar del bucle &#10;for each" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrige el ejercicio 3 capitulo 6: TemperatureReadings&#10;cambia el método wasHot usando un bucle for normal en lugar del bucle &#10;for each" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Questions4/Main.java" />
@@ -595,8 +620,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Questions6/TemperatureReadings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="46" column="43" lean-forward="true" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+        <state relative-caret-position="999">
+          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions6/Students.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
         </state>
       </provider>
     </entry>
