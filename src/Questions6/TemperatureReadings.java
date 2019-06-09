@@ -42,12 +42,11 @@ public class TemperatureReadings {
 
     static void wasHot(double... temperatureIn) {
         System.out.println();
-        System.out.println("*** TEMPERATURES ABOVE 18");
+        System.out.println("*** TEMPERATURES ABOVE 18***");
         System.out.println();
-        for (double temp : temperatureIn) {
-            if (temp >= 18) {
-                System.out.println(temp); // TODO añadir el indice del día
-
+        for (int i = 0; i < temperatureIn.length; i++){
+            if (temperatureIn[i] >= 18){
+                System.out.println("dia " + (i + 1) + " " + temperatureIn[i]);
             }
         }
     }
