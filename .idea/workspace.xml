@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6f1b157-31df-4930-8498-d7d1285d7c4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Questions6/MagicWordSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions6/RaggedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,10 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Questions6/MagicWordSquare.java">
+        <entry file="file://$PROJECT_DIR$/src/Questions6/RaggedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+            <state relative-caret-position="384">
+              <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -88,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/Questions6/Question2.java" />
         <option value="$PROJECT_DIR$/src/Questions6/Trains.java" />
         <option value="$PROJECT_DIR$/src/Questions6/MagicWordSquare.java" />
+        <option value="$PROJECT_DIR$/src/Questions6/RaggedArray.java" />
       </list>
     </option>
   </component>
@@ -105,6 +106,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,8 +136,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MagicWordSquare">
+  <component name="RunManager" selected="Application.RaggedArray">
     <configuration name="MagicWordSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Questions6.MagicWordSquare" />
       <module name="Ji2S" />
@@ -200,8 +201,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Questions6.Students" />
+    <configuration name="RaggedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions6.RaggedArray" />
       <module name="Ji2S" />
       <extension name="coverage">
         <pattern>
@@ -227,19 +228,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Students" />
       <item itemvalue="Application.Question5" />
       <item itemvalue="Application.MonthlyTemperatures" />
       <item itemvalue="Application.Trains" />
       <item itemvalue="Application.MagicWordSquare" />
+      <item itemvalue="Application.RaggedArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RaggedArray" />
         <item itemvalue="Application.MagicWordSquare" />
         <item itemvalue="Application.Trains" />
         <item itemvalue="Application.MonthlyTemperatures" />
         <item itemvalue="Application.Question5" />
-        <item itemvalue="Application.Students" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +267,8 @@
       <workItem from="1559951615995" duration="684000" />
       <workItem from="1560043452044" duration="10988000" />
       <workItem from="1560222085535" duration="3690000" />
-      <workItem from="1560288661739" duration="6225000" />
+      <workItem from="1560288661739" duration="7051000" />
+      <workItem from="1560342684933" duration="2111000" />
     </task>
     <task id="LOCAL-00001" summary="Añade el ejercicio 2 del capitulo 4 Iteration">
       <created>1559524933539</created>
@@ -415,11 +417,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560300897144</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Agrega la pregunta 10 del capitulo 6: Magic Word Square 4x4">
+      <created>1560303762486</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1560303762486</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58154000" />
+    <option name="totallyTimeSpent" value="61091000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="-1" width="1372" height="772" extended-state="6" />
@@ -430,7 +439,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.502439" side_tool="true" weight="0.29166666" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49756098" visible="true" weight="0.29166666" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49756098" visible="true" weight="0.2962121" />
       <window_info id="Structure" order="6" sideWeight="0.50240386" side_tool="true" weight="0.26060605" />
       <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49545455" weight="0.3255814" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
@@ -444,7 +453,7 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info active="true" anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.50454545" side_tool="true" visible="true" weight="0.32868218" />
+      <window_info active="true" anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.50454545" side_tool="true" visible="true" weight="0.25271317" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -524,7 +533,8 @@
     <MESSAGE value="Agrega la pregunta 7 del capitulo 6: appropiate array" />
     <MESSAGE value="Agrega la pregunta 8 del capitulo 6: MonthlyTemperatures con método max" />
     <MESSAGE value="Agrega la pregunta 9 del capitulo 6: Train con array 52x7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agrega la pregunta 9 del capitulo 6: Train con array 52x7" />
+    <MESSAGE value="Agrega la pregunta 10 del capitulo 6: Magic Word Square 4x4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agrega la pregunta 10 del capitulo 6: Magic Word Square 4x4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Questions4/Main.java" />
@@ -674,8 +684,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Questions6/MagicWordSquare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        <state relative-caret-position="-893">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions6/RaggedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
         </state>
       </provider>
     </entry>
