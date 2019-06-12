@@ -24,6 +24,7 @@ public class Question2 {
              ) {
             if (e > 2 ){
                 System.out.print(e + " ");
+
             }
 
         }

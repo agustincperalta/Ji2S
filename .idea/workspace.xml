@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6f1b157-31df-4930-8498-d7d1285d7c4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Questions6/MonthlyTemperatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions6/Trains.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions6/Question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions6/Question2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +21,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Questions6/MonthlyTemperatures.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+            <state relative-caret-position="306">
+              <caret line="94" column="33" lean-forward="true" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Questions6/Trains.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Questions6/Question2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -80,17 +99,19 @@
         <option value="$PROJECT_DIR$/src/Exercises4/Tables.java" />
         <option value="$PROJECT_DIR$/src/Exercises5/CurrencyConverter.java" />
         <option value="$PROJECT_DIR$/src/Exercises5/TempConverter.java" />
-        <option value="$PROJECT_DIR$/src/Questions6/Question2.java" />
         <option value="$PROJECT_DIR$/src/Questions6/TemperatureReadings.java" />
         <option value="$PROJECT_DIR$/src/Questions6/Students.java" />
         <option value="$PROJECT_DIR$/src/Questions6/Question5.java" />
         <option value="$PROJECT_DIR$/src/Questions6/Question7.java" />
         <option value="$PROJECT_DIR$/src/Questions6/MonthlyTemperatures.java" />
+        <option value="$PROJECT_DIR$/src/Questions6/Question2.java" />
+        <option value="$PROJECT_DIR$/src/Questions6/Trains.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-22" />
+    <option name="x" value="-72" />
+    <option name="y" value="52" />
     <option name="width" value="1362" />
     <option name="height" value="741" />
   </component>
@@ -102,8 +123,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,6 +151,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -157,22 +178,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MonthlyTemperatures">
+  <component name="RunManager" selected="Application.Trains">
     <configuration name="MonthlyTemperatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Questions6.MonthlyTemperatures" />
-      <module name="Ji2S" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Questions6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Questions6.Question2" />
       <module name="Ji2S" />
       <extension name="coverage">
         <pattern>
@@ -223,20 +231,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Trains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions6.Trains" />
+      <module name="Ji2S" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Questions6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Question2" />
       <item itemvalue="Application.TemperatureReadings" />
       <item itemvalue="Application.Students" />
       <item itemvalue="Application.Question5" />
       <item itemvalue="Application.MonthlyTemperatures" />
+      <item itemvalue="Application.Trains" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Trains" />
         <item itemvalue="Application.MonthlyTemperatures" />
         <item itemvalue="Application.Question5" />
         <item itemvalue="Application.Students" />
         <item itemvalue="Application.TemperatureReadings" />
-        <item itemvalue="Application.Question2" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +283,8 @@
       <workItem from="1559854441320" duration="7393000" />
       <workItem from="1559951615995" duration="684000" />
       <workItem from="1560043452044" duration="10988000" />
-      <workItem from="1560222085535" duration="2844000" />
+      <workItem from="1560222085535" duration="3690000" />
+      <workItem from="1560288661739" duration="4112000" />
     </task>
     <task id="LOCAL-00001" summary="Añade el ejercicio 2 del capitulo 4 Iteration">
       <created>1559524933539</created>
@@ -397,24 +419,31 @@
       <option name="project" value="LOCAL" />
       <updated>1560085600290</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Agrega la pregunta 8 del capitulo 6: MonthlyTemperatures con método max">
+      <created>1560225098606</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1560225098606</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51083000" />
+    <option name="totallyTimeSpent" value="56041000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="-1" width="1372" height="745" extended-state="6" />
+    <frame x="-3" y="-1" width="1372" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" weight="0.32954547" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49759614" weight="0.2871212" />
+      <window_info id="Favorites" order="4" sideWeight="0.5047022" side_tool="true" visible="true" weight="0.29166666" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49529782" visible="true" weight="0.29166666" />
       <window_info id="Structure" order="6" sideWeight="0.50240386" side_tool="true" weight="0.26060605" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49848485" weight="0.32686085" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49621212" weight="0.3255814" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49469697" weight="0.3171521" />
@@ -426,7 +455,7 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.505303" side_tool="true" visible="true" weight="0.3171521" />
+      <window_info active="true" anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5037879" side_tool="true" visible="true" weight="0.50542635" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -504,7 +533,8 @@
     <MESSAGE value="Agrega la pregunta 4 del capitulo 6: StudentsMarks" />
     <MESSAGE value="Agrega la pregunta 5 del capitulo 6: rewritten contains method" />
     <MESSAGE value="Agrega la pregunta 7 del capitulo 6: appropiate array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agrega la pregunta 7 del capitulo 6: appropiate array" />
+    <MESSAGE value="Agrega la pregunta 8 del capitulo 6: MonthlyTemperatures con método max" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agrega la pregunta 8 del capitulo 6: MonthlyTemperatures con método max" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Questions4/Main.java" />
@@ -610,13 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions6/Question2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises5/TempConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="967">
@@ -638,10 +661,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions6/Question2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Questions6/MonthlyTemperatures.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+        <state relative-caret-position="306">
+          <caret line="94" column="33" lean-forward="true" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions6/Trains.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
         </state>
       </provider>
     </entry>
