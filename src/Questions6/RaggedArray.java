@@ -1,6 +1,7 @@
 package Questions6;
 
 import java.util.Random;
+import java.util.Scanner;
 
 /*
  * (a) Write instructions to create a ragged 2D array of integers, called
@@ -43,11 +44,21 @@ public class RaggedArray {
         return largest;
     }
 
-    private static void fillArray(int[][] arrayIn) {
+    private static void fillRndArray(int[][] arrayIn) {
         Random rnd = new Random();
         for (int i = 0; i < arrayIn.length; i++) {
             for (int j = 0; j < arrayIn[i].length; j++) {
                 arrayIn[i][j] = (int) (rnd.nextDouble() * 100);
+            }
+        }
+    }
+
+    private static void fillArray(int[][] arrayIn) {
+        Scanner kbd = new Scanner(System.in);
+        for (int i = 0; i < arrayIn.length; i++) {
+            for (int j = 0; j < arrayIn[i].length; j++) {
+                System.out.println("value " + "[" + i + "][" + j + "]:");
+                arrayIn[i][j] = kbd.nextInt();
             }
         }
     }
