@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f1b157-31df-4930-8498-d7d1285d7c4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercises7/CodeName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises7/StringComparison.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions7/ApartmentArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions7/ApartmentArrayList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +23,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises7/CodeName.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="145">
-              <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+              <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Exercises7/StringComparison.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -105,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/Questions7/ApartmentArray.java" />
         <option value="$PROJECT_DIR$/src/Questions7/ApartmentArrayList.java" />
         <option value="$PROJECT_DIR$/src/Exercises7/CodeName.java" />
+        <option value="$PROJECT_DIR$/src/Exercises7/StringComparison.java" />
       </list>
     </option>
   </component>
@@ -187,7 +196,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CodeName">
+  <component name="RunManager" selected="Application.StringComparison">
     <configuration name="ApartmentArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Questions7.ApartmentArray" />
       <module name="Ji2S" />
@@ -203,19 +212,6 @@
     </configuration>
     <configuration name="ApartmentArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Questions7.ApartmentArrayList" />
-      <module name="Ji2S" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Questions7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BankAccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Questions7.BankAccountTest" />
       <module name="Ji2S" />
       <extension name="coverage">
         <pattern>
@@ -253,20 +249,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises7.StringComparison" />
+      <module name="Ji2S" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.BankAccountTest" />
       <item itemvalue="Application.PasswordGuess" />
       <item itemvalue="Application.ApartmentArray" />
       <item itemvalue="Application.ApartmentArrayList" />
       <item itemvalue="Application.CodeName" />
+      <item itemvalue="Application.StringComparison" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringComparison" />
         <item itemvalue="Application.CodeName" />
         <item itemvalue="Application.ApartmentArrayList" />
         <item itemvalue="Application.ApartmentArray" />
         <item itemvalue="Application.PasswordGuess" />
-        <item itemvalue="Application.BankAccountTest" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +307,7 @@
       <workItem from="1560395996807" duration="6756000" />
       <workItem from="1560474108990" duration="5202000" />
       <workItem from="1560486975892" duration="156000" />
-      <workItem from="1560513554375" duration="933000" />
+      <workItem from="1560513554375" duration="2443000" />
     </task>
     <task id="LOCAL-00001" summary="Añade el ejercicio 2 del capitulo 4 Iteration">
       <created>1559524933539</created>
@@ -524,11 +533,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560477398491</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Agrega el ejercicio 2 del capitulo 7: CodeName">
+      <created>1560514669640</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1560514669640</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81985000" />
+    <option name="totallyTimeSpent" value="83495000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -548,7 +564,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.502439" side_tool="true" weight="0.29166666" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49756098" visible="true" weight="0.31060606" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49756098" weight="0.31060606" />
       <window_info id="Structure" order="6" sideWeight="0.50240386" side_tool="true" weight="0.26060605" />
       <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49318182" weight="0.3255814" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
@@ -632,7 +648,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Añade mejora de mensaje de confimación en programa Vending Machine" />
     <MESSAGE value="fixup! Añade la pregunta 5 del capitulo 5" />
     <MESSAGE value="Añade la pregunta 5 del capitulo 5" />
     <MESSAGE value="Añade el ejercicio 1 del capitulo 5" />
@@ -657,7 +672,8 @@
     <MESSAGE value="Agrega el ejercicio 3 del capitulo 7: PasswordGuess y la clase EasyScanner" />
     <MESSAGE value="Agrega el ejercicio 5 del capitulo 7: Apartment y la clase Oblong" />
     <MESSAGE value="Agrega el ejercicio 7 del capitulo 7: Apartment con ArrayList, y Uso de Faker con BankAccount" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agrega el ejercicio 7 del capitulo 7: Apartment con ArrayList, y Uso de Faker con BankAccount" />
+    <MESSAGE value="Agrega el ejercicio 2 del capitulo 7: CodeName" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agrega el ejercicio 2 del capitulo 7: CodeName" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Questions4/Main.java" />
@@ -877,7 +893,14 @@
     <entry file="file://$PROJECT_DIR$/src/Exercises7/CodeName.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
-          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises7/StringComparison.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
         </state>
       </provider>
     </entry>
