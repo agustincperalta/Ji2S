@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f1b157-31df-4930-8498-d7d1285d7c4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercises7/StringComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises7/newBankAccounts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,10 +33,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Exercises7/StringComparison.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises7/newBankAccounts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+            <state relative-caret-position="72">
+              <caret line="77" column="82" lean-forward="true" selection-start-line="77" selection-start-column="82" selection-end-line="77" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Questions7/BankAccount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="667">
+              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -114,6 +123,7 @@
         <option value="$PROJECT_DIR$/src/Questions7/ApartmentArrayList.java" />
         <option value="$PROJECT_DIR$/src/Exercises7/CodeName.java" />
         <option value="$PROJECT_DIR$/src/Exercises7/StringComparison.java" />
+        <option value="$PROJECT_DIR$/src/Exercises7/newBankAccounts.java" />
       </list>
     </option>
   </component>
@@ -150,6 +160,12 @@
               <item name="Ji2S" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ji2S" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Questions7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
@@ -196,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringComparison">
+  <component name="RunManager" selected="Application.newBankAccounts">
     <configuration name="ApartmentArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Questions7.ApartmentArray" />
       <module name="Ji2S" />
@@ -236,19 +252,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasswordGuess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Questions7.PasswordGuess" />
-      <module name="Ji2S" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Questions7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises7.StringComparison" />
       <module name="Ji2S" />
@@ -262,20 +265,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="newBankAccounts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises7.newBankAccounts" />
+      <module name="Ji2S" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.PasswordGuess" />
       <item itemvalue="Application.ApartmentArray" />
       <item itemvalue="Application.ApartmentArrayList" />
       <item itemvalue="Application.CodeName" />
       <item itemvalue="Application.StringComparison" />
+      <item itemvalue="Application.newBankAccounts" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.newBankAccounts" />
         <item itemvalue="Application.StringComparison" />
         <item itemvalue="Application.CodeName" />
         <item itemvalue="Application.ApartmentArrayList" />
         <item itemvalue="Application.ApartmentArray" />
-        <item itemvalue="Application.PasswordGuess" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +323,7 @@
       <workItem from="1560395996807" duration="6756000" />
       <workItem from="1560474108990" duration="5202000" />
       <workItem from="1560486975892" duration="156000" />
-      <workItem from="1560513554375" duration="2443000" />
+      <workItem from="1560513554375" duration="8054000" />
     </task>
     <task id="LOCAL-00001" summary="Añade el ejercicio 2 del capitulo 4 Iteration">
       <created>1559524933539</created>
@@ -540,11 +556,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560514669640</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Agrega el ejercicio 3 del capitulo 7: StringComparison">
+      <created>1560516123724</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1560516123724</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83495000" />
+    <option name="totallyTimeSpent" value="89106000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -566,10 +589,10 @@
       <window_info id="Favorites" order="4" sideWeight="0.502439" side_tool="true" weight="0.29166666" />
       <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49756098" weight="0.31060606" />
       <window_info id="Structure" order="6" sideWeight="0.50240386" side_tool="true" weight="0.26060605" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49318182" weight="0.3255814" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49166667" weight="0.3255814" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.48939395" weight="0.29767442" />
+      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.48863637" weight="0.29767442" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5022727" side_tool="true" weight="0.32362458" />
       <window_info anchor="bottom" id="Message" order="6" />
@@ -578,7 +601,7 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" sideWeight="0.49924242" weight="0.32868218" />
-      <window_info active="true" anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5007576" side_tool="true" visible="true" weight="0.32093024" />
+      <window_info active="true" anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5083333" side_tool="true" visible="true" weight="0.43255815" />
       <window_info anchor="right" x="0" y="0" width="293" height="572" id="Documentation" side_tool="true" weight="0.32954547" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
@@ -605,17 +628,6 @@
               </option>
               <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
                 <collection />
-              </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="text">
-                    <value>
-                      <list>
-                        <option value="seq" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
               </option>
               <option name="COLUMN_ORDER">
                 <list>
@@ -648,7 +660,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="fixup! Añade la pregunta 5 del capitulo 5" />
     <MESSAGE value="Añade la pregunta 5 del capitulo 5" />
     <MESSAGE value="Añade el ejercicio 1 del capitulo 5" />
     <MESSAGE value="Añade el ejercicio 3 del capitulo 5" />
@@ -673,7 +684,8 @@
     <MESSAGE value="Agrega el ejercicio 5 del capitulo 7: Apartment y la clase Oblong" />
     <MESSAGE value="Agrega el ejercicio 7 del capitulo 7: Apartment con ArrayList, y Uso de Faker con BankAccount" />
     <MESSAGE value="Agrega el ejercicio 2 del capitulo 7: CodeName" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agrega el ejercicio 2 del capitulo 7: CodeName" />
+    <MESSAGE value="Agrega el ejercicio 3 del capitulo 7: StringComparison" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agrega el ejercicio 3 del capitulo 7: StringComparison" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Questions4/Main.java" />
@@ -856,13 +868,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions7/BankAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Questions7/ApartmentArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
@@ -890,6 +895,13 @@
     <entry file="file://$PROJECT_DIR$/src/Questions7/EasyScanner.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises7/StringComparison.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises7/CodeName.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -897,10 +909,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises7/StringComparison.java">
+    <entry file="file://$PROJECT_DIR$/src/Questions7/BankAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+        <state relative-caret-position="667">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises7/newBankAccounts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="77" column="82" lean-forward="true" selection-start-line="77" selection-start-column="82" selection-end-line="77" selection-end-column="82" />
         </state>
       </provider>
     </entry>
