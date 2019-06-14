@@ -2,6 +2,8 @@ package Questions7;
 
 import com.github.javafaker.Faker;
 
+import java.sql.Connection;
+import java.sql.DriverManager;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Locale;
@@ -10,7 +12,6 @@ public class ApartmentArrayList {
     public static void main(String[] args) {
         // Crea un objeto faker para generar los nombres
         Faker faker = new Faker(new Locale("es-MX"));
-
 
         ArrayList<Oblong> rooms = new ArrayList<>(3);
         rooms.add(new Oblong(5.2, 4.7));
@@ -37,7 +38,8 @@ public class ApartmentArrayList {
         // Imprime los datos de las cuentas
         for (BankAccount c : cuentas) {
             DecimalFormat formatter = new DecimalFormat("#,###,###.##");
-            System.out.println(c.getAccountNumber() + " " + c.getAccountName() + " tiene $" + formatter.format(c.getBalance()));
+            System.out.println(c.getAccountNumber() + " " + c.getAccountName() +
+                    " tiene $" + formatter.format(c.getBalance()));
             // System.out.printf("%1.2f", c.getBalance());
             //          System.out.println();
         }
