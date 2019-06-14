@@ -15,7 +15,7 @@ package Questions7;
  * to display the area of room 3 to the screen
  *
  * */
-public class Apartment {
+public class ApartmentArray {
     public static void main(String[] args) {
 
         Oblong[] rooms = new Oblong[3];

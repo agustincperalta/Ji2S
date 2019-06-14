@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f1b157-31df-4930-8498-d7d1285d7c4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Questions7/Apartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions7/Oblong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_github_javafaker_javafaker_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions7/ApartmentArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ji2S.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ji2S.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions7/Apartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions7/ApartmentArray.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,11 +47,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Questions7/Apartment.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Questions7/ApartmentArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="27" />
+            <state relative-caret-position="306">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Questions7/ApartmentArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Questions7/BankAccount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -123,6 +143,8 @@
         <option value="$PROJECT_DIR$/src/Questions7/PasswordGuess.java" />
         <option value="$PROJECT_DIR$/src/Questions7/Oblong.java" />
         <option value="$PROJECT_DIR$/src/Questions7/Apartment.java" />
+        <option value="$PROJECT_DIR$/src/Questions7/ApartmentArray.java" />
+        <option value="$PROJECT_DIR$/src/Questions7/ApartmentArrayList.java" />
       </list>
     </option>
   </component>
@@ -158,6 +180,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Questions7" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="com.github.javafaker:javafaker:0.18" type="70bed36:NamedLibraryElementNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -167,6 +198,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -175,6 +210,9 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -194,9 +232,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Apartment">
-    <configuration name="Apartment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Questions7.Apartment" />
+  <component name="RunManager" selected="Application.ApartmentArrayList">
+    <configuration name="ApartmentArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions7.ApartmentArray" />
+      <module name="Ji2S" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Questions7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApartmentArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions7.ApartmentArrayList" />
       <module name="Ji2S" />
       <extension name="coverage">
         <pattern>
@@ -247,33 +298,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SterlingsDollars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises6.SterlingsDollars" />
-      <module name="Ji2S" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercises6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.RaggedArray" />
-      <item itemvalue="Application.SterlingsDollars" />
       <item itemvalue="Application.BankAccountTest" />
       <item itemvalue="Application.PasswordGuess" />
-      <item itemvalue="Application.Apartment" />
+      <item itemvalue="Application.ApartmentArray" />
+      <item itemvalue="Application.ApartmentArrayList" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Apartment" />
+        <item itemvalue="Application.ApartmentArrayList" />
+        <item itemvalue="Application.ApartmentArray" />
         <item itemvalue="Application.PasswordGuess" />
         <item itemvalue="Application.BankAccountTest" />
         <item itemvalue="Application.RaggedArray" />
-        <item itemvalue="Application.SterlingsDollars" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +341,7 @@
       <workItem from="1560288661739" duration="7051000" />
       <workItem from="1560342684933" duration="9958000" />
       <workItem from="1560395996807" duration="6756000" />
-      <workItem from="1560474108990" duration="399000" />
+      <workItem from="1560474108990" duration="3084000" />
     </task>
     <task id="LOCAL-00001" summary="Añade el ejercicio 2 del capitulo 4 Iteration">
       <created>1559524933539</created>
@@ -515,11 +553,27 @@
       <option name="project" value="LOCAL" />
       <updated>1560434891947</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Agrega el ejercicio 5 del capitulo 7: Apartment y la clase Oblong">
+      <created>1560474803794</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1560474803794</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76093000" />
+    <option name="totallyTimeSpent" value="78778000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="-1" width="1372" height="772" extended-state="6" />
@@ -530,21 +584,21 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.502439" side_tool="true" weight="0.29166666" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49756098" visible="true" weight="0.30530304" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49756098" weight="0.30530304" />
       <window_info id="Structure" order="6" sideWeight="0.50240386" side_tool="true" weight="0.26060605" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.4939394" weight="0.3255814" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49318182" weight="0.3255814" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49015152" visible="true" weight="0.2992248" />
+      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.48939395" weight="0.29767442" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5022727" side_tool="true" weight="0.32362458" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49848485" weight="0.39644012" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49772727" weight="0.39534885" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5098485" side_tool="true" weight="0.3007752" />
+      <window_info anchor="bottom" id="TODO" order="11" sideWeight="0.49924242" weight="0.32868218" />
+      <window_info active="true" anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5007576" side_tool="true" visible="true" weight="0.19844961" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -613,7 +667,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Avance Programa Vending Machine" />
     <MESSAGE value="Añade Programa Vending Machine con Enum" />
     <MESSAGE value="Añade mejora de mensaje de confimación en programa Vending Machine" />
     <MESSAGE value="fixup! Añade la pregunta 5 del capitulo 5" />
@@ -638,7 +691,8 @@
     <MESSAGE value="Agrega implementación propia de BankAccount" />
     <MESSAGE value="Agrega el ejercicio 2 del capitulo 7: BankAccountTest" />
     <MESSAGE value="Agrega el ejercicio 3 del capitulo 7: PasswordGuess y la clase EasyScanner" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agrega el ejercicio 3 del capitulo 7: PasswordGuess y la clase EasyScanner" />
+    <MESSAGE value="Agrega el ejercicio 5 del capitulo 7: Apartment y la clase Oblong" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agrega el ejercicio 5 del capitulo 7: Apartment y la clase Oblong" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Questions4/Main.java" />
@@ -807,13 +861,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions7/BankAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Questions7/BankAccountTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="497">
@@ -843,10 +890,24 @@
         <state relative-caret-position="-576" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions7/Apartment.java">
+    <entry file="file://$PROJECT_DIR$/src/Questions7/ApartmentArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="27" />
+        <state relative-caret-position="306">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions7/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions7/ApartmentArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -908,7 +969,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -916,6 +976,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>com.github.javafaker:javafaker:0.18</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
