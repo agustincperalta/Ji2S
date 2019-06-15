@@ -1,4 +1,4 @@
-package Questions8;
+package Exercises8;
 /*
 * The class shown below keeps track of a pressure sensor in a laboratory.
 When a Sensor object is created using the first constructor, the initial pressure
