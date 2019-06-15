@@ -6,13 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f1b157-31df-4930-8498-d7d1285d7c4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercises8/Apartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises8/ApartmentTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises8/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises8/TestTimeTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises8/TimeTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions8/Incubator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises8/Incubator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions8/IncubatorTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises8/IncubatorTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions8/Sensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises8/Sensor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions8/SensorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises8/SensorTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,55 +27,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises8/Incubator.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises8/Booking.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="-216">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises8/IncubatorTester.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises8/TimeTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises8/Sensor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises8/SensorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="187">
+              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Exercises8/Apartment.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises8/TestTimeTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises8/ApartmentTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+            <state relative-caret-position="307">
+              <caret line="60" column="41" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -111,9 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Exercises/VendingMachine.java" />
-        <option value="$PROJECT_DIR$/src/Exercises4/VendingMachine.java" />
-        <option value="$PROJECT_DIR$/src/Questions5/SomeApp.java" />
         <option value="$PROJECT_DIR$/src/Questions5/MethodsQ3.java" />
         <option value="$PROJECT_DIR$/src/Exercises5/ConvertPtoK.java" />
         <option value="$PROJECT_DIR$/src/Exercises5/RectangleAP.java" />
@@ -160,8 +127,11 @@
         <option value="$PROJECT_DIR$/src/Questions8/Sensor.java" />
         <option value="$PROJECT_DIR$/src/Questions8/Incubator.java" />
         <option value="$PROJECT_DIR$/src/Questions8/IncubatorTester.java" />
-        <option value="$PROJECT_DIR$/src/Exercises8/ApartmentTester.java" />
         <option value="$PROJECT_DIR$/src/Exercises8/Apartment.java" />
+        <option value="$PROJECT_DIR$/src/Exercises8/ApartmentTester.java" />
+        <option value="$PROJECT_DIR$/src/Exercises8/Booking.java" />
+        <option value="$PROJECT_DIR$/src/Exercises8/TimeTable.java" />
+        <option value="$PROJECT_DIR$/src/Exercises8/TestTimeTable.java" />
       </list>
     </option>
   </component>
@@ -227,6 +197,7 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="performancePlugin.isProfileIndexing" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -250,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ApartmentTester">
+  <component name="RunManager" selected="Application.TestTimeTable">
     <configuration name="ApartmentTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises8.ApartmentTester" />
       <module name="Ji2S" />
@@ -303,8 +274,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises8.TestStudent" />
+    <configuration name="TestTimeTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises8.TestTimeTable" />
       <module name="Ji2S" />
       <extension name="coverage">
         <pattern>
@@ -317,19 +288,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestStudent" />
       <item itemvalue="Application.TestProg" />
       <item itemvalue="Application.SensorTest" />
       <item itemvalue="Application.IncubatorTester" />
       <item itemvalue="Application.ApartmentTester" />
+      <item itemvalue="Application.TestTimeTable" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestTimeTable" />
         <item itemvalue="Application.ApartmentTester" />
         <item itemvalue="Application.IncubatorTester" />
         <item itemvalue="Application.SensorTest" />
         <item itemvalue="Application.TestProg" />
-        <item itemvalue="Application.TestStudent" />
       </list>
     </recent_temporary>
   </component>
@@ -363,7 +334,7 @@
       <workItem from="1560486975892" duration="156000" />
       <workItem from="1560513554375" duration="17375000" />
       <workItem from="1560573208498" duration="1257000" />
-      <workItem from="1560613618830" duration="5410000" />
+      <workItem from="1560613618830" duration="10529000" />
     </task>
     <task id="LOCAL-00001" summary="Añade el ejercicio 2 del capitulo 4 Iteration">
       <created>1559524933539</created>
@@ -638,11 +609,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560616268498</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Agrega Ejercicio 5 del capitulo 7: Apartment y ApartmentTester">
+      <created>1560619142012</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1560619142012</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105219000" />
+    <option name="totallyTimeSpent" value="110338000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -661,13 +639,13 @@
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" sideWeight="0.502439" side_tool="true" weight="0.29166666" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49756098" visible="true" weight="0.3212121" />
+      <window_info id="Favorites" order="4" sideWeight="0.50551873" side_tool="true" visible="true" weight="0.3212121" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49448124" visible="true" weight="0.3212121" />
       <window_info id="Structure" order="6" sideWeight="0.50240386" side_tool="true" weight="0.26060605" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.48939395" weight="0.3255814" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.48863637" weight="0.3255814" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.48712122" weight="0.29767442" />
+      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.48636365" weight="0.29767442" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5022727" side_tool="true" weight="0.32362458" />
       <window_info anchor="bottom" id="Message" order="6" />
@@ -676,7 +654,7 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" sideWeight="0.49924242" weight="0.32868218" />
-      <window_info active="true" anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.51060605" side_tool="true" visible="true" weight="0.56434107" />
+      <window_info active="true" anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5113636" side_tool="true" visible="true" weight="0.29767442" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -735,7 +713,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Añade el ejercicio 3 capitulo 6: TemperatureReadings" />
     <MESSAGE value="Corrige el ejercicio 3 capitulo 6: TemperatureReadings&#10;cambia el método wasHot usando un bucle for normal en lugar del bucle &#10;for each" />
     <MESSAGE value="Agrega la pregunta 4 del capitulo 6: StudentsMarks" />
     <MESSAGE value="Agrega la pregunta 5 del capitulo 6: rewritten contains method" />
@@ -760,30 +737,10 @@
     <MESSAGE value="Agrega Questions 3 y 4: BankApplication, TestSomeClass y Ejercicios 1 y 2 del capitulo 7: TestCircularShape TestStudent" />
     <MESSAGE value="Agrega Ejercicios 3 del capitulo 7: StockItem y TestProg" />
     <MESSAGE value="Agrega Ejercicios 4 del capitulo 7: Incubator y IncubatorTester" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agrega Ejercicios 4 del capitulo 7: Incubator y IncubatorTester" />
+    <MESSAGE value="Agrega Ejercicio 5 del capitulo 7: Apartment y ApartmentTester" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agrega Ejercicio 5 del capitulo 7: Apartment y ApartmentTester" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Exercises4/Iteration3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-48">
-          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises4/DisplayEven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions4/IterationQ9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises4/DisplayStars4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1093,22 +1050,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises8/SensorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises8/ApartmentTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        <state relative-caret-position="73">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises8/Apartment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
+        <state relative-caret-position="15">
           <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises8/ApartmentTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises8/Booking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises8/TimeTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises8/TestTimeTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="60" column="41" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
         </state>
       </provider>
     </entry>
