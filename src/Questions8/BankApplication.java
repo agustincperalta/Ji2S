@@ -2,9 +2,11 @@ package Questions8;
 /*Adapt the BankApplication program so that option 4 now uses the
 * new version of withdrawMoney*/
 import Questions7.BankAccount;
-import Questions7.EasyScanner;
+import static Questions7.EasyScanner.*;
+
 
 public class BankApplication {
+
     public static void main(String[] args) {
         char choice;
 
@@ -23,7 +25,7 @@ public class BankApplication {
             System.out.print("Enter choice [1-6]: ");
 
             // get choice
-            choice = EasyScanner.nextChar();
+            choice = nextChar();
             System.out.println();
 
             // process menu options
@@ -56,9 +58,9 @@ public class BankApplication {
     static void option1(Bank bankIn) {
         // get details from user
         System.out.print("Enter account number: ");
-        String number = EasyScanner.nextString();
+        String number = nextString();
         System.out.print("Enter account name: ");
-        String name = EasyScanner.nextString();
+        String name = nextString();
         // add account to list
         boolean success = bankIn.addAccount(number, name);
         if (success) {
@@ -73,7 +75,7 @@ public class BankApplication {
     static void option2(Bank bankIn) {
         // get account number of account to remove
         System.out.print("Enter account number: ");
-        String number = EasyScanner.nextString();
+        String number = nextString();
         // delete item if it exists
         boolean found = bankIn.removeAccount(number);
 
@@ -88,9 +90,9 @@ public class BankApplication {
     static void option3(Bank bankIn) {
         // get details from user
         System.out.print("Enter account number: ");
-        String number = EasyScanner.nextString();
+        String number = nextString();
         System.out.print("Enter amount to deposit: ");
-        double amount = EasyScanner.nextDouble();
+        double amount = nextDouble();
 
         boolean found = bankIn.depositMoney(number, amount);
 
@@ -106,9 +108,9 @@ public class BankApplication {
     static void option4(Bank bankIn) {
         // get details from user
         System.out.print("Enter account number: ");
-        String number = EasyScanner.nextString();
+        String number = nextString();
         System.out.print("Enter amount to withdraw: ");
-        double amount = EasyScanner.nextDouble();
+        double amount = nextDouble();
         int ok = bankIn.withdrawMoney(number, amount);
 
         if (ok == 1) {
@@ -125,7 +127,7 @@ public class BankApplication {
     static void option5(Bank bankIn) {
         // get details from user
         System.out.print("Enter account number ");
-        String number = EasyScanner.nextString();
+        String number = nextString();
 
         BankAccount account = bankIn.getItem(number);
 

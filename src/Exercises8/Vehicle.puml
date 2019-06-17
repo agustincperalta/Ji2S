@@ -1,0 +1,16 @@
+@startuml
+
+abstract Shape
+note top: public class Shape{}
+Class Circle
+note top: public class Circle extends Shape{}
+Class Square
+note top: public class Square extends Shape{}
+Class FilledCircle
+note top: public class FilledCircle extends Shape{}
+
+Shape <|-- Circle
+Circle <|-- FilledCircle
+Shape <|-- Square
+
+@enduml

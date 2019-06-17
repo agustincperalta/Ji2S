@@ -6,10 +6,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f1b157-31df-4930-8498-d7d1285d7c4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercises8/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises8/TestTimeTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises8/TimeTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_junit_junit5_api_5_0_0_ALPHA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises8/Sensors.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises8/Vehicle.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions9/e.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ji2S.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ji2S.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises8/TimeTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises8/TimeTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions8/BankApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions8/BankApplication.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,28 +31,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises8/Booking.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises4/DisplayEven.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-216">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="504">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises8/TimeTable.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises4/DisplayStars4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            <state relative-caret-position="144">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises4/Iteration3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises4/Tables.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises4/VendingMachine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Questions9/e.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises8/Apartment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises8/Vehicle.puml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Exercises8/TestTimeTable.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises8/Sensors.puml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="60" column="41" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
+            <state relative-caret-position="264">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Questions8/BankApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -59,6 +126,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="UML Sequence" />
       </list>
     </option>
   </component>
@@ -67,6 +135,7 @@
       <find>actu</find>
       <find>getItem</find>
       <find>total</find>
+      <find>EasyScanner</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -81,9 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Questions5/MethodsQ3.java" />
-        <option value="$PROJECT_DIR$/src/Exercises5/ConvertPtoK.java" />
-        <option value="$PROJECT_DIR$/src/Exercises5/RectangleAP.java" />
         <option value="$PROJECT_DIR$/src/Exercises4/Tables.java" />
         <option value="$PROJECT_DIR$/src/Exercises5/CurrencyConverter.java" />
         <option value="$PROJECT_DIR$/src/Exercises5/TempConverter.java" />
@@ -101,7 +167,6 @@
         <option value="$PROJECT_DIR$/src/Questions6/RaggedArray.java" />
         <option value="$PROJECT_DIR$/src/Questions7/BankAccount.java" />
         <option value="$PROJECT_DIR$/src/Questions7/BankAccountTest.java" />
-        <option value="$PROJECT_DIR$/src/Questions7/EasyScanner.java" />
         <option value="$PROJECT_DIR$/src/Questions7/PasswordGuess.java" />
         <option value="$PROJECT_DIR$/src/Questions7/Oblong.java" />
         <option value="$PROJECT_DIR$/src/Questions7/Apartment.java" />
@@ -115,7 +180,6 @@
         <option value="$PROJECT_DIR$/src/Questions8/SomeClass.java" />
         <option value="$PROJECT_DIR$/src/Questions8/TestSomeClass.java" />
         <option value="$PROJECT_DIR$/src/Questions8/Bank.java" />
-        <option value="$PROJECT_DIR$/src/Questions8/BankApplication.java" />
         <option value="$PROJECT_DIR$/src/Exercises8/CircularShape.java" />
         <option value="$PROJECT_DIR$/src/Exercises8/TestCircularShape.java" />
         <option value="$PROJECT_DIR$/src/Questions8/Student.java" />
@@ -127,18 +191,30 @@
         <option value="$PROJECT_DIR$/src/Questions8/Sensor.java" />
         <option value="$PROJECT_DIR$/src/Questions8/Incubator.java" />
         <option value="$PROJECT_DIR$/src/Questions8/IncubatorTester.java" />
-        <option value="$PROJECT_DIR$/src/Exercises8/Apartment.java" />
         <option value="$PROJECT_DIR$/src/Exercises8/ApartmentTester.java" />
         <option value="$PROJECT_DIR$/src/Exercises8/Booking.java" />
-        <option value="$PROJECT_DIR$/src/Exercises8/TimeTable.java" />
         <option value="$PROJECT_DIR$/src/Exercises8/TestTimeTable.java" />
+        <option value="$PROJECT_DIR$/src/Questions7/EasyScanner.java" />
+        <option value="$PROJECT_DIR$/src/Questions8/BankApplication.java" />
+        <option value="$PROJECT_DIR$/src/Exercises8/TimeTable.java" />
+        <option value="$PROJECT_DIR$/src/Questions9/e.java" />
+        <option value="$PROJECT_DIR$/src/Exercises8/Apartment.java" />
+        <option value="$PROJECT_DIR$/src/Exercises8/Vehicle.puml" />
+        <option value="$PROJECT_DIR$/src/Exercises8/Sensors.puml" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="52" />
-    <option name="width" value="1366" />
-    <option name="height" value="741" />
+    <option name="x" value="-3" />
+    <option name="y" value="-1" />
+    <option name="width" value="1372" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -171,7 +247,7 @@
               <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ji2S" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Questions8" type="462c0819:PsiDirectoryNode" />
+              <item name="Questions9" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
@@ -181,27 +257,37 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Ji2S" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Ji2S" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
+    <property name="Repository.Attach.Sources" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Questions8" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="performancePlugin.isProfileIndexing" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2988372" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -221,7 +307,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestTimeTable">
+  <component name="RunManager" selected="Application.e">
     <configuration name="ApartmentTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises8.ApartmentTester" />
       <module name="Ji2S" />
@@ -261,19 +347,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestProg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Questions8.TestProg" />
-      <module name="Ji2S" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercises8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestTimeTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises8.TestTimeTable" />
       <module name="Ji2S" />
@@ -287,20 +360,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="e" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions9.e" />
+      <module name="Ji2S" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Questions9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.TestProg" />
       <item itemvalue="Application.SensorTest" />
       <item itemvalue="Application.IncubatorTester" />
       <item itemvalue="Application.ApartmentTester" />
       <item itemvalue="Application.TestTimeTable" />
+      <item itemvalue="Application.e" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.e" />
         <item itemvalue="Application.TestTimeTable" />
         <item itemvalue="Application.ApartmentTester" />
         <item itemvalue="Application.IncubatorTester" />
         <item itemvalue="Application.SensorTest" />
-        <item itemvalue="Application.TestProg" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +420,12 @@
       <workItem from="1560486975892" duration="156000" />
       <workItem from="1560513554375" duration="17375000" />
       <workItem from="1560573208498" duration="1257000" />
-      <workItem from="1560613618830" duration="10529000" />
+      <workItem from="1560613618830" duration="13267000" />
+      <workItem from="1560702458172" duration="5411000" />
+      <workItem from="1560724590629" duration="3000" />
+      <workItem from="1560731351027" duration="1318000" />
+      <workItem from="1560732690417" duration="1213000" />
+      <workItem from="1560733946243" duration="2969000" />
     </task>
     <task id="LOCAL-00001" summary="Añade el ejercicio 2 del capitulo 4 Iteration">
       <created>1559524933539</created>
@@ -616,11 +707,25 @@
       <option name="project" value="LOCAL" />
       <updated>1560619142012</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Agrega Ejercicio 8 del capitulo 7: Booking, TimeTable, TestTimeTable">
+      <created>1560625552787</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1560625552787</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Agrega Ejercicio 9 del capitulo 7: nextByte() &amp; nextLong() added to EasyScanner">
+      <created>1560625784571</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1560625784571</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110338000" />
+    <option name="totallyTimeSpent" value="123990000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -639,8 +744,8 @@
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" sideWeight="0.50551873" side_tool="true" visible="true" weight="0.3212121" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49448124" visible="true" weight="0.3212121" />
+      <window_info id="Favorites" order="4" sideWeight="0.5069767" side_tool="true" weight="0.3212121" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49302325" weight="0.33534744" />
       <window_info id="Structure" order="6" sideWeight="0.50240386" side_tool="true" weight="0.26060605" />
       <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.48863637" weight="0.3255814" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
@@ -654,10 +759,11 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" sideWeight="0.49924242" weight="0.32868218" />
-      <window_info active="true" anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5113636" side_tool="true" visible="true" weight="0.29767442" />
+      <window_info anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5113636" side_tool="true" weight="0.30979133" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="13" weight="0.32868218" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Maven" order="2" weight="0.32930514" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Database" order="5" />
@@ -665,6 +771,7 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" x="0" y="0" width="293" height="572" id="Documentation" order="9" side_tool="true" weight="0.32954547" />
+      <window_info anchor="right" id="PlantUML" order="10" visible="true" weight="0.526435" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -713,8 +820,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Corrige el ejercicio 3 capitulo 6: TemperatureReadings&#10;cambia el método wasHot usando un bucle for normal en lugar del bucle &#10;for each" />
-    <MESSAGE value="Agrega la pregunta 4 del capitulo 6: StudentsMarks" />
     <MESSAGE value="Agrega la pregunta 5 del capitulo 6: rewritten contains method" />
     <MESSAGE value="Agrega la pregunta 7 del capitulo 6: appropiate array" />
     <MESSAGE value="Agrega la pregunta 8 del capitulo 6: MonthlyTemperatures con método max" />
@@ -738,117 +843,11 @@
     <MESSAGE value="Agrega Ejercicios 3 del capitulo 7: StockItem y TestProg" />
     <MESSAGE value="Agrega Ejercicios 4 del capitulo 7: Incubator y IncubatorTester" />
     <MESSAGE value="Agrega Ejercicio 5 del capitulo 7: Apartment y ApartmentTester" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agrega Ejercicio 5 del capitulo 7: Apartment y ApartmentTester" />
+    <MESSAGE value="Agrega Ejercicio 8 del capitulo 7: Booking, TimeTable, TestTimeTable" />
+    <MESSAGE value="Agrega Ejercicio 9 del capitulo 7: nextByte() &amp; nextLong() added to EasyScanner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agrega Ejercicio 9 del capitulo 7: nextByte() &amp; nextLong() added to EasyScanner" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Exercises4/DisplayStars4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="67" lean-forward="true" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions5/SomeApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions5/MethodsQ3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises5/RectangleAP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-110">
-          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises5/ConvertPtoK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises4/VendingMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-973">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises4/Tables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="40" column="44" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises5/CurrencyConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="24" selection-start-line="24" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises5/TempConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="967">
-          <caret line="55" column="50" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions6/Trains.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="73" column="19" lean-forward="true" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions6/TemperatureReadings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions6/MonthlyTemperatures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2256">
-          <caret line="94" column="33" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions6/Question5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions6/Question7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises6/SomeUsefulArrayMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Questions6/Students.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
@@ -856,24 +855,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions6/Question2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises6/SterlingsDollars.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
           <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions6/MagicWordSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -911,9 +896,6 @@
           <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions7/EasyScanner.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises7/StringComparison.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -975,13 +957,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions8/BankApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -1055,13 +1030,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises8/Apartment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises8/ApartmentTester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
@@ -1069,24 +1037,406 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises8/Booking.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercises8/TestTimeTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="149">
+          <caret line="63" column="47" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Exercises8">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Exercises8</OriginalElement>
+          <nodes>
+            <node x="" y="">Exercises8.TestStudent</node>
+            <node x="" y="">Exercises8.ApartmentTester</node>
+            <node x="" y="">Exercises8.Incubator</node>
+            <node x="" y="">Exercises8.Student</node>
+            <node x="" y="">Exercises8.Apartment</node>
+            <node x="" y="">Exercises8.TestCircularShape</node>
+            <node x="" y="">Exercises8.CircularShape</node>
+            <node x="" y="">Exercises8.Sensor</node>
+            <node x="" y="">Exercises8.Booking</node>
+            <node x="" y="">Exercises8.TestTimeTable</node>
+            <node x="" y="">Exercises8.SensorTest</node>
+            <node x="" y="">Exercises8.IncubatorTester</node>
+            <node x="" y="">Exercises8.TimeTable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7266009852216748" x="422.0" y="388.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Questions8">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Questions8</OriginalElement>
+          <nodes>
+            <node x="" y="">Questions8.Bank</node>
+            <node x="" y="">Questions8.TestSomeClass</node>
+            <node x="" y="">Questions8.SomeClass</node>
+            <node x="" y="">Questions8.BankApplication</node>
+            <node x="" y="">Questions8.StockItem</node>
+            <node x="" y="">Questions8.TestProg</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="154.0" y="436.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Questions7">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Questions7</OriginalElement>
+          <nodes>
+            <node x="" y="">Questions7.Oblong</node>
+            <node x="" y="">Questions7.ApartmentArray</node>
+            <node x="" y="">Questions7.BankAccount</node>
+            <node x="" y="">Questions7.EasyScanner</node>
+            <node x="" y="">Questions7.ApartmentArrayList</node>
+            <node x="" y="">Questions7.PasswordGuess</node>
+            <node x="" y="">Questions7.BankAccountTest</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="189.0" y="168.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">dk</node>
+            <node x="" y="">toolbarButtonGraphics</node>
+            <node x="" y="">sun</node>
+            <node x="" y="">groovyjarjarasm</node>
+            <node x="" y="">Questions4</node>
+            <node x="" y="">java</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">Questions5</node>
+            <node x="" y="">Questions6</node>
+            <node x="" y="">Questions7</node>
+            <node x="" y="">Questions8</node>
+            <node x="" y="">images</node>
+            <node x="" y="">org</node>
+            <node x="" y="">en</node>
+            <node x="" y="">Exercises4</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">Exercises6</node>
+            <node x="" y="">Exercises5</node>
+            <node x="" y="">groovy</node>
+            <node x="" y="">Exercises8</node>
+            <node x="" y="">Exercises7</node>
+            <node x="" y="">groovyjarjarcommonscli</node>
+            <node x="" y="">groovyjarjarantlr</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8998482549317147" x="360.0" y="310.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//home/agustin/Documentos/2_projects/Ji2S/src/Exercises4;/home/agustin/Documentos/2_projects/Ji2S/src/Exercises5;/home/agustin/Documentos/2_projects/Ji2S/src/Exercises6;/home/agustin/Documentos/2_projects/Ji2S/src/Exercises7;/home/agustin/Documentos/2_projects/Ji2S/src/Exercises8;/home/agustin/Documentos/2_projects/Ji2S/src/Questions4;/home/agustin/Documentos/2_projects/Ji2S/src/Questions5;/home/agustin/Documentos/2_projects/Ji2S/src/Questions6;/home/agustin/Documentos/2_projects/Ji2S/src/Questions7;/home/agustin/Documentos/2_projects/Ji2S/src/Questions8;">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/Exercises4;/home/agustin/Documentos/2_projects/Ji2S/src/Exercises5;/home/agustin/Documentos/2_projects/Ji2S/src/Exercises6;/home/agustin/Documentos/2_projects/Ji2S/src/Exercises7;/home/agustin/Documentos/2_projects/Ji2S/src/Exercises8;/home/agustin/Documentos/2_projects/Ji2S/src/Questions4;/home/agustin/Documentos/2_projects/Ji2S/src/Questions5;/home/agustin/Documentos/2_projects/Ji2S/src/Questions6;/home/agustin/Documentos/2_projects/Ji2S/src/Questions7;/home/agustin/Documentos/2_projects/Ji2S/src/Questions8;</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="448.0" y="297.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Exercises4">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Exercises4</OriginalElement>
+          <nodes>
+            <node x="" y="">Exercises5.ConvertPtoK</node>
+            <node x="" y="">Questions7.ApartmentArray</node>
+            <node x="" y="">Exercises8.TestStudent</node>
+            <node x="" y="">Questions6.Students</node>
+            <node x="" y="">Questions6.Trains</node>
+            <node x="" y="">Questions4.Main</node>
+            <node x="" y="">Exercises4.Tables</node>
+            <node x="" y="">Questions6.MagicWordSquare</node>
+            <node x="" y="">Questions6.Question2</node>
+            <node x="" y="">Questions7.BankAccount</node>
+            <node x="" y="">Questions5.MethodsQ3</node>
+            <node x="" y="">Questions6.Question5</node>
+            <node x="" y="">Exercises5.CurrencyConverter</node>
+            <node x="" y="">Questions8.BankApplication</node>
+            <node x="" y="">Questions6.Question7</node>
+            <node x="" y="">Questions6.TemperatureReadings</node>
+            <node x="" y="">Exercises6.SomeUsefulArrayMethods</node>
+            <node x="" y="">Questions8.Bank</node>
+            <node x="" y="">Exercises7.StringComparison</node>
+            <node x="" y="">Questions7.ApartmentArrayList</node>
+            <node x="" y="">Exercises8.Student</node>
+            <node x="" y="">Questions8.StockItem</node>
+            <node x="" y="">Exercises8.Apartment</node>
+            <node x="" y="">Exercises8.TestCircularShape</node>
+            <node x="" y="">Exercises8.CircularShape</node>
+            <node x="" y="">Exercises6.SterlingsDollars</node>
+            <node x="" y="">Questions4.IterationQ1</node>
+            <node x="" y="">Exercises8.Sensor</node>
+            <node x="" y="">Questions4.IterationQ2</node>
+            <node x="" y="">Exercises5.TempConverter</node>
+            <node x="" y="">Exercises5.RectangleAP</node>
+            <node x="" y="">Questions4.IterationQ5</node>
+            <node x="" y="">Questions4.IterationQ6</node>
+            <node x="" y="">Questions4.IterationQ3</node>
+            <node x="" y="">Questions4.IterationQ4</node>
+            <node x="" y="">Exercises7.CodeName</node>
+            <node x="" y="">Questions4.IterationQ9</node>
+            <node x="" y="">Exercises4.VendingMachine</node>
+            <node x="" y="">Exercises8.TimeTable</node>
+            <node x="" y="">Questions4.IterationQ7</node>
+            <node x="" y="">Questions4.IterationQ8</node>
+            <node x="" y="">Questions7.Oblong</node>
+            <node x="" y="">Questions7.PasswordGuess</node>
+            <node x="" y="">Exercises4.Elementos</node>
+            <node x="" y="">Questions8.TestProg</node>
+            <node x="" y="">Exercises7.Rooms</node>
+            <node x="" y="">Exercises8.Booking</node>
+            <node x="" y="">Exercises8.TestTimeTable</node>
+            <node x="" y="">Questions7.EasyScanner</node>
+            <node x="" y="">Questions8.SomeClass</node>
+            <node x="" y="">Exercises4.Iteration3</node>
+            <node x="" y="">Exercises4.DisplayStars4</node>
+            <node x="" y="">Exercises4.DisplayEven</node>
+            <node x="" y="">Exercises8.ApartmentTester</node>
+            <node x="" y="">Exercises8.Incubator</node>
+            <node x="" y="">Questions5.SomeApp</node>
+            <node x="" y="">Questions8.TestSomeClass</node>
+            <node x="" y="">Questions6.MonthlyTemperatures</node>
+            <node x="" y="">Questions6.RaggedArray</node>
+            <node x="" y="">Exercises8.IncubatorTester</node>
+            <node x="" y="">Exercises8.SensorTest</node>
+            <node x="" y="">Exercises7.newBankAccounts</node>
+            <node x="" y="">Questions7.BankAccountTest</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.2887909936368086" x="897.0" y="1012.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-Ji2S">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-Ji2S</OriginalElement>
+          <nodes>
+            <node x="" y="">lib-com.github.javafaker:javafaker:0.18</node>
+            <node x="" y="">mdl-Ji2S</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="209.0" y="11.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Libraries</Category>
+            <Category>Test dependencies</Category>
+            <Category>Borderless View</Category>
+            <Category>Show Neighbours of Selected Nodes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Questions4">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Questions4</OriginalElement>
+          <nodes>
+            <node x="" y="">Questions4.IterationQ1</node>
+            <node x="" y="">Questions4.IterationQ2</node>
+            <node x="" y="">Questions4.IterationQ5</node>
+            <node x="" y="">Questions4.IterationQ6</node>
+            <node x="" y="">Questions4.IterationQ3</node>
+            <node x="" y="">Questions4.Main</node>
+            <node x="" y="">Questions4.IterationQ4</node>
+            <node x="" y="">Questions4.IterationQ9</node>
+            <node x="" y="">Questions4.IterationQ7</node>
+            <node x="" y="">Questions4.IterationQ8</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="179.0" y="166.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions7/EasyScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises8/TimeTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        <state relative-caret-position="72">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="59" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises8/TestTimeTable.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercises8/Booking.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="60" column="41" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
+        <state relative-caret-position="216">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions6/MagicWordSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions6/Question2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises4/DisplayEven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises4/DisplayStars4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises4/Iteration3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises4/Tables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises4/VendingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions9/e.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions8/BankApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises8/Apartment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises8/Vehicle.puml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises8/Sensors.puml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -1155,7 +1505,18 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>com.github.javafaker:javafaker:0.18</last-edited>
+          <last-edited>org.junit:junit5-api:5.0.0-ALPHA</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2988372" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1166,5 +1527,8 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
   </component>
 </project>

@@ -1,0 +1,18 @@
+@startuml
+class Sensor{
+-double pressure
++Sensor()
++Sensor(double)
++setPressure(double) : boolean
++getPressure() : double
+}
+Sensor<|-- SafeSensor
+class SafeSensor{
+-double max
+
++SafeSensor(double)
++SafeSensor(double, double)
++setPressure(double) : boolean
++getMax() : double
+}
+@enduml
