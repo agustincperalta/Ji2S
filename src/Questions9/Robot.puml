@@ -1,0 +1,14 @@
+@startuml
+
+abstract Robot{
+-String root
+-int securityLevel
+-int warningLevel
+
++Robot(String, int)
++getId() : Sting
++getSecurityLevel(): int
++ {abstract} calculateWarningLevel()
+}
+
+@enduml

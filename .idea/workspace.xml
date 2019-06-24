@@ -6,14 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f1b157-31df-4930-8498-d7d1285d7c4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_junit_junit5_api_5_0_0_ALPHA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises8/Sensors.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises8/Vehicle.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions9/e.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises9/ExtendedOblong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises9/ExtendedOblongTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises9/SafeSensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises9/Sensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions9/Robot.puml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ji2S.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ji2S.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises8/TimeTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises8/TimeTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions8/BankApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions8/BankApplication.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,64 +29,69 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises4/DisplayEven.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises9/ExtendedOblong.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="357">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises4/DisplayStars4.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises9/ExtendedOblongTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="336">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises4/Iteration3.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises6/SomeUsefulArrayMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="273">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises4/Tables.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises6/SterlingsDollars.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="399">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises4/VendingMachine.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises9/Sensor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="294">
+              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+              <folding>
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Exercises9/SafeSensor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Questions9/e.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises8/Sensors.puml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises8/Apartment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="315">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -96,26 +99,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises8/Vehicle.puml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Exercises8/Sensors.puml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Questions8/BankApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="315">
+              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -125,8 +110,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="UML Sequence" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -150,11 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Exercises4/Tables.java" />
-        <option value="$PROJECT_DIR$/src/Exercises5/CurrencyConverter.java" />
-        <option value="$PROJECT_DIR$/src/Exercises5/TempConverter.java" />
-        <option value="$PROJECT_DIR$/src/Questions6/TemperatureReadings.java" />
-        <option value="$PROJECT_DIR$/src/Questions6/Students.java" />
         <option value="$PROJECT_DIR$/src/Questions6/Question5.java" />
         <option value="$PROJECT_DIR$/src/Questions6/Question7.java" />
         <option value="$PROJECT_DIR$/src/Questions6/MonthlyTemperatures.java" />
@@ -201,6 +181,11 @@
         <option value="$PROJECT_DIR$/src/Exercises8/Apartment.java" />
         <option value="$PROJECT_DIR$/src/Exercises8/Vehicle.puml" />
         <option value="$PROJECT_DIR$/src/Exercises8/Sensors.puml" />
+        <option value="$PROJECT_DIR$/src/Questions9/Robot.puml" />
+        <option value="$PROJECT_DIR$/src/Exercises9/ExtendedOblong.java" />
+        <option value="$PROJECT_DIR$/src/Exercises9/ExtendedOblongTester.java" />
+        <option value="$PROJECT_DIR$/src/Exercises9/Sensor.java" />
+        <option value="$PROJECT_DIR$/src/Exercises9/SafeSensor.java" />
       </list>
     </option>
   </component>
@@ -224,7 +209,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,7 +225,25 @@
               <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ji2S" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises8" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ji2S" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ji2S" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ji2S" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises9" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
@@ -268,6 +270,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,7 +282,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -287,9 +290,12 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2988372" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.plantuml.idea.lang.settings.PlantUmlSettingsPage" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jazmin.torres\Ji2S\src\Exercises9" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Questions8" />
       <recent name="$PROJECT_DIR$/src/Questions7" />
@@ -307,7 +313,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.e">
+  <component name="RunManager" selected="Application.ExtendedOblongTester">
     <configuration name="ApartmentTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises8.ApartmentTester" />
       <module name="Ji2S" />
@@ -321,12 +327,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IncubatorTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises8.IncubatorTester" />
+    <configuration name="ExtendedOblongTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises9.ExtendedOblongTester" />
       <module name="Ji2S" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercises8.*" />
+          <option name="PATTERN" value="Exercises9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,8 +340,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SensorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises8.SensorTest" />
+    <configuration name="IncubatorTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises8.IncubatorTester" />
       <module name="Ji2S" />
       <extension name="coverage">
         <pattern>
@@ -374,19 +380,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SensorTest" />
       <item itemvalue="Application.IncubatorTester" />
       <item itemvalue="Application.ApartmentTester" />
       <item itemvalue="Application.TestTimeTable" />
       <item itemvalue="Application.e" />
+      <item itemvalue="Application.ExtendedOblongTester" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExtendedOblongTester" />
         <item itemvalue="Application.e" />
         <item itemvalue="Application.TestTimeTable" />
         <item itemvalue="Application.ApartmentTester" />
         <item itemvalue="Application.IncubatorTester" />
-        <item itemvalue="Application.SensorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -426,6 +432,12 @@
       <workItem from="1560731351027" duration="1318000" />
       <workItem from="1560732690417" duration="1213000" />
       <workItem from="1560733946243" duration="2969000" />
+      <workItem from="1560784798548" duration="1392000" />
+      <workItem from="1560787719640" duration="3906000" />
+      <workItem from="1561041358176" duration="655000" />
+      <workItem from="1561042360230" duration="664000" />
+      <workItem from="1561060197841" duration="26000" />
+      <workItem from="1561387423120" duration="612000" />
     </task>
     <task id="LOCAL-00001" summary="Añade el ejercicio 2 del capitulo 4 Iteration">
       <created>1559524933539</created>
@@ -725,7 +737,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123990000" />
+    <option name="totallyTimeSpent" value="131245000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -737,7 +749,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="-1" width="1372" height="772" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -745,21 +757,21 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5069767" side_tool="true" weight="0.3212121" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49302325" weight="0.33534744" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49302325" visible="true" weight="0.3001066" />
       <window_info id="Structure" order="6" sideWeight="0.50240386" side_tool="true" weight="0.26060605" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.48863637" weight="0.3255814" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.48863637" weight="0.32502708" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.48636365" weight="0.29767442" />
+      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.48636365" weight="0.29685807" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5022727" side_tool="true" weight="0.32362458" />
       <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.09859155" />
       <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49772727" weight="0.39534885" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" sideWeight="0.49924242" weight="0.32868218" />
-      <window_info anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5113636" side_tool="true" weight="0.30979133" />
+      <window_info anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5113636" side_tool="true" weight="0.30877572" />
       <window_info anchor="bottom" id="Dependency Viewer" order="13" weight="0.32868218" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
@@ -771,7 +783,9 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" x="0" y="0" width="293" height="572" id="Documentation" order="9" side_tool="true" weight="0.32954547" />
-      <window_info anchor="right" id="PlantUML" order="10" visible="true" weight="0.526435" />
+      <window_info anchor="right" id="PlantUML" order="10" weight="0.38432837" />
+      <window_info anchor="right" id="LiquibaseEJBModel" order="11" />
+      <window_info anchor="right" id="LiquibaseModel" order="12" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -848,69 +862,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Agrega Ejercicio 9 del capitulo 7: nextByte() &amp; nextLong() added to EasyScanner" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Questions6/Students.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises6/SterlingsDollars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions7/BankAccountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions6/RaggedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions7/ApartmentArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" lean-forward="true" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions7/ApartmentArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions7/PasswordGuess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises7/StringComparison.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions7/BankAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises7/newBankAccounts.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -985,13 +936,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13">
           <caret line="81" selection-start-line="81" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions7/Oblong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-312">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1194,92 +1138,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/Exercises4">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>Exercises4</OriginalElement>
-          <nodes>
-            <node x="" y="">Exercises5.ConvertPtoK</node>
-            <node x="" y="">Questions7.ApartmentArray</node>
-            <node x="" y="">Exercises8.TestStudent</node>
-            <node x="" y="">Questions6.Students</node>
-            <node x="" y="">Questions6.Trains</node>
-            <node x="" y="">Questions4.Main</node>
-            <node x="" y="">Exercises4.Tables</node>
-            <node x="" y="">Questions6.MagicWordSquare</node>
-            <node x="" y="">Questions6.Question2</node>
-            <node x="" y="">Questions7.BankAccount</node>
-            <node x="" y="">Questions5.MethodsQ3</node>
-            <node x="" y="">Questions6.Question5</node>
-            <node x="" y="">Exercises5.CurrencyConverter</node>
-            <node x="" y="">Questions8.BankApplication</node>
-            <node x="" y="">Questions6.Question7</node>
-            <node x="" y="">Questions6.TemperatureReadings</node>
-            <node x="" y="">Exercises6.SomeUsefulArrayMethods</node>
-            <node x="" y="">Questions8.Bank</node>
-            <node x="" y="">Exercises7.StringComparison</node>
-            <node x="" y="">Questions7.ApartmentArrayList</node>
-            <node x="" y="">Exercises8.Student</node>
-            <node x="" y="">Questions8.StockItem</node>
-            <node x="" y="">Exercises8.Apartment</node>
-            <node x="" y="">Exercises8.TestCircularShape</node>
-            <node x="" y="">Exercises8.CircularShape</node>
-            <node x="" y="">Exercises6.SterlingsDollars</node>
-            <node x="" y="">Questions4.IterationQ1</node>
-            <node x="" y="">Exercises8.Sensor</node>
-            <node x="" y="">Questions4.IterationQ2</node>
-            <node x="" y="">Exercises5.TempConverter</node>
-            <node x="" y="">Exercises5.RectangleAP</node>
-            <node x="" y="">Questions4.IterationQ5</node>
-            <node x="" y="">Questions4.IterationQ6</node>
-            <node x="" y="">Questions4.IterationQ3</node>
-            <node x="" y="">Questions4.IterationQ4</node>
-            <node x="" y="">Exercises7.CodeName</node>
-            <node x="" y="">Questions4.IterationQ9</node>
-            <node x="" y="">Exercises4.VendingMachine</node>
-            <node x="" y="">Exercises8.TimeTable</node>
-            <node x="" y="">Questions4.IterationQ7</node>
-            <node x="" y="">Questions4.IterationQ8</node>
-            <node x="" y="">Questions7.Oblong</node>
-            <node x="" y="">Questions7.PasswordGuess</node>
-            <node x="" y="">Exercises4.Elementos</node>
-            <node x="" y="">Questions8.TestProg</node>
-            <node x="" y="">Exercises7.Rooms</node>
-            <node x="" y="">Exercises8.Booking</node>
-            <node x="" y="">Exercises8.TestTimeTable</node>
-            <node x="" y="">Questions7.EasyScanner</node>
-            <node x="" y="">Questions8.SomeClass</node>
-            <node x="" y="">Exercises4.Iteration3</node>
-            <node x="" y="">Exercises4.DisplayStars4</node>
-            <node x="" y="">Exercises4.DisplayEven</node>
-            <node x="" y="">Exercises8.ApartmentTester</node>
-            <node x="" y="">Exercises8.Incubator</node>
-            <node x="" y="">Questions5.SomeApp</node>
-            <node x="" y="">Questions8.TestSomeClass</node>
-            <node x="" y="">Questions6.MonthlyTemperatures</node>
-            <node x="" y="">Questions6.RaggedArray</node>
-            <node x="" y="">Exercises8.IncubatorTester</node>
-            <node x="" y="">Exercises8.SensorTest</node>
-            <node x="" y="">Exercises7.newBankAccounts</node>
-            <node x="" y="">Questions7.BankAccountTest</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.2887909936368086" x="897.0" y="1012.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://MODULES/mdl-Ji2S">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -1370,73 +1228,195 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions9/e.java" />
     <entry file="file://$PROJECT_DIR$/src/Exercises4/DisplayEven.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
+        <state relative-caret-position="441">
           <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises4/DisplayStars4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises4/Iteration3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
+        <state relative-caret-position="42">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises4/Tables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises4/VendingMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions9/e.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Questions8/BankApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="105">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises4/Tables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises4/DisplayStars4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises4/VendingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises8/Apartment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="413">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises8/Vehicle.puml">
+    <entry file="file://$PROJECT_DIR$/src/Exercises9/Oblong.java" />
+    <entry file="file://$PROJECT_DIR$/src/Questions7/Oblong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions9/Robot.puml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Exercises4">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Exercises4</OriginalElement>
+          <nodes>
+            <node x="192.0" y="380.0">Exercises4.DisplayStars4</node>
+            <node x="413.0" y="380.0">Exercises4.DisplayEven</node>
+            <node x="231.0" y="0.0">Exercises4.Tables</node>
+            <node x="0.0" y="380.0">Exercises4.Iteration3</node>
+            <node x="0.0" y="238.0">Exercises4.VendingMachine</node>
+            <node x="25.0" y="0.0">Exercises4.Elementos</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Exercises4.VendingMachine" target="Exercises4.Elementos">
+              <point x="0.0" y="-48.5" />
+              <point x="0.0" y="94.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="105.0" y="175.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Exercises9">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Exercises9</OriginalElement>
+          <nodes>
+            <node x="4.5" y="149.0">Exercises9.ExtendedOblongTester</node>
+            <node x="0.0" y="0.0">Exercises9.ExtendedOblong</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Exercises9.ExtendedOblongTester" target="Exercises9.ExtendedOblong">
+              <point x="-61.5" y="-26.5" />
+              <point x="66.0" y="124.0" />
+              <point x="63.75" y="124.0" />
+              <point x="-63.75" y="49.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-297.0" y="2.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises9/ExtendedOblong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises9/ExtendedOblongTester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises6/SomeUsefulArrayMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises6/SterlingsDollars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises9/Sensor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises8/Sensors.puml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="315">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises8/Vehicle.puml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises9/SafeSensor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
