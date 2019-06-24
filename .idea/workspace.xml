@@ -5,10 +5,8 @@
     <bookmark url="file://$PROJECT_DIR$/src/Questions8/TestProg.java" line="32" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6f1b157-31df-4930-8498-d7d1285d7c4e" name="Default Changelist" comment="Agrega SafeSensorTester del ejercicio 2 del capitulo 9 y hace cambios menores a los demás archivos">
-      <change afterPath="$PROJECT_DIR$/src/Exercises9/SecondHandVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises9/SecondHandVehicleTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises9/Vehicle.java" afterDir="false" />
+    <list default="true" id="d6f1b157-31df-4930-8498-d7d1285d7c4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Exercises9/CarAgency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,64 +25,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises9/ExtendedOblong.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises9/ExtendedOblongTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises9/Sensor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-              <folding>
-                <element signature="e#164#165#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises9/SafeSensor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-              <folding>
-                <element signature="e#861#862#0" expanded="true" />
-                <element signature="e#887#888#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises9/SafeSensorTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises9/Vehicle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
+            <state relative-caret-position="261">
               <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
               <folding>
                 <element signature="e#1022#1023#0" expanded="true" />
@@ -104,20 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Exercises9/SecondHandVehicleTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises9/SecondHandVehicle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+            <state relative-caret-position="252">
+              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
               <folding>
                 <element signature="e#366#367#0" expanded="true" />
                 <element signature="e#402#403#0" expanded="true" />
@@ -127,10 +61,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises8/Sensors.puml">
+        <entry file="file://$PROJECT_DIR$/src/Exercises9/SecondHandVehicleTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="357">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Exercises9/CarAgency.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="56" column="21" lean-forward="true" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -165,7 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Questions6/Trains.java" />
         <option value="$PROJECT_DIR$/src/Questions6/MagicWordSquare.java" />
         <option value="$PROJECT_DIR$/src/Questions6/SomeUsefulArrayMethods.java" />
         <option value="$PROJECT_DIR$/src/Exercises6/SomeUsefulArrayMethods.java" />
@@ -216,6 +161,7 @@
         <option value="$PROJECT_DIR$/src/Exercises9/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/Exercises9/SecondHandVehicle.java" />
         <option value="$PROJECT_DIR$/src/Exercises9/SecondHandVehicleTester.java" />
+        <option value="$PROJECT_DIR$/src/Exercises9/CarAgency.java" />
       </list>
     </option>
   </component>
@@ -342,7 +288,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SecondHandVehicleTester">
+  <component name="RunManager" selected="Application.CarAgency">
+    <configuration name="CarAgency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises9.CarAgency" />
+      <module name="Ji2S" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExtendedOblongTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises9.ExtendedOblongTester" />
       <module name="Ji2S" />
@@ -382,19 +341,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTimeTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises8.TestTimeTable" />
-      <module name="Ji2S" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercises8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="e" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Questions9.e" />
       <module name="Ji2S" />
@@ -409,19 +355,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestTimeTable" />
       <item itemvalue="Application.e" />
       <item itemvalue="Application.ExtendedOblongTester" />
       <item itemvalue="Application.SafeSensorTester" />
       <item itemvalue="Application.SecondHandVehicleTester" />
+      <item itemvalue="Application.CarAgency" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarAgency" />
         <item itemvalue="Application.SecondHandVehicleTester" />
         <item itemvalue="Application.SafeSensorTester" />
         <item itemvalue="Application.ExtendedOblongTester" />
         <item itemvalue="Application.e" />
-        <item itemvalue="Application.TestTimeTable" />
       </list>
     </recent_temporary>
   </component>
@@ -466,7 +412,7 @@
       <workItem from="1561041358176" duration="655000" />
       <workItem from="1561042360230" duration="664000" />
       <workItem from="1561060197841" duration="26000" />
-      <workItem from="1561387423120" duration="4469000" />
+      <workItem from="1561387423120" duration="9803000" />
     </task>
     <task id="LOCAL-00001" summary="Añade el ejercicio 2 del capitulo 4 Iteration">
       <created>1559524933539</created>
@@ -776,11 +722,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561390395048</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Agrega ejercicio 3 del capitulo 9, Vehicle --&gt; SecondHandVehicle --&gt; SecondHandVehicleTester">
+      <created>1561392222545</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1561392222545</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135102000" />
+    <option name="totallyTimeSpent" value="140436000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -800,13 +753,13 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5069767" side_tool="true" weight="0.3212121" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49302325" visible="true" weight="0.21268657" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49302325" weight="0.43654266" />
       <window_info id="Structure" order="6" sideWeight="0.50240386" side_tool="true" weight="0.26060605" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.48863637" weight="0.32502708" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.48827294" weight="0.32502595" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.48636365" weight="0.29874215" />
-      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.4936034" visible="true" weight="0.3281412" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.4936034" weight="0.3281412" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5022727" side_tool="true" weight="0.32362458" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.09859155" />
@@ -814,7 +767,7 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" sideWeight="0.49924242" weight="0.32868218" />
-      <window_info active="true" anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5063966" side_tool="true" visible="true" weight="0.3281412" />
+      <window_info active="true" anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5117271" side_tool="true" visible="true" weight="0.3281412" />
       <window_info anchor="bottom" id="Dependency Viewer" order="13" weight="0.32868218" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
@@ -877,7 +830,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Agrega la pregunta 8 del capitulo 6: MonthlyTemperatures con método max" />
     <MESSAGE value="Agrega la pregunta 9 del capitulo 6: Train con array 52x7" />
     <MESSAGE value="Agrega la pregunta 10 del capitulo 6: Magic Word Square 4x4" />
     <MESSAGE value="Agrega la pregunta 11 del capitulo 6: RaggedArray --&gt; search, print and fill" />
@@ -902,16 +854,10 @@
     <MESSAGE value="Agrega Ejercicio 9 del capitulo 7: nextByte() &amp; nextLong() added to EasyScanner" />
     <MESSAGE value="Agrega Ejercicio 1 y 2 del Capitulo 9. (ExtededOblong, ExtendedOblongTester, Sensor y SafeSensor) y el diagrama uml Robot" />
     <MESSAGE value="Agrega SafeSensorTester del ejercicio 2 del capitulo 9 y hace cambios menores a los demás archivos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agrega SafeSensorTester del ejercicio 2 del capitulo 9 y hace cambios menores a los demás archivos" />
+    <MESSAGE value="Agrega ejercicio 3 del capitulo 9, Vehicle --&gt; SecondHandVehicle --&gt; SecondHandVehicleTester" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agrega ejercicio 3 del capitulo 9, Vehicle --&gt; SecondHandVehicle --&gt; SecondHandVehicleTester" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Exercises8/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1416">
-          <caret line="59" column="69" selection-start-line="59" selection-start-column="69" selection-end-line="59" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Questions8/SomeClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -1381,13 +1327,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises6/SterlingsDollars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises8/Vehicle.puml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1402,13 +1341,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises9/ExtendedOblongTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises8/Sensors.puml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1416,10 +1348,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises9/SecondHandVehicleTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises6/SterlingsDollars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises9/SecondHandVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding>
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises9/SafeSensorTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises9/SafeSensor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        <state relative-caret-position="252">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
           <folding>
             <element signature="e#861#862#0" expanded="true" />
             <element signature="e#887#888#0" expanded="true" />
@@ -1440,27 +1404,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises9/SafeSensorTester.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercises9/ExtendedOblongTester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises9/SecondHandVehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-          <folding>
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-          </folding>
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises9/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
+        <state relative-caret-position="261">
           <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
           <folding>
             <element signature="e#1022#1023#0" expanded="true" />
@@ -1479,10 +1432,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises9/SecondHandVehicleTester.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercises9/CarAgency.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        <state relative-caret-position="483">
+          <caret line="56" column="21" lean-forward="true" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
