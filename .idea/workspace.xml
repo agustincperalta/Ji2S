@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Ji2S:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/Exercises6/SterlingsDollars.java" line="44" mnemonic="7" />
     <bookmark url="file://$PROJECT_DIR$/src/Questions8/TestProg.java" line="32" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f1b157-31df-4930-8498-d7d1285d7c4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercises9/CarAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions13/Checkable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions13/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions13/Question1.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions13/SomeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions13/SomeInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions13/Testable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions13/TopClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ji2S.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ji2S.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,58 +38,98 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises9/Vehicle.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises9/SafeSensorTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-              <folding>
-                <element signature="e#1022#1023#0" expanded="true" />
-                <element signature="e#1050#1051#0" expanded="true" />
-                <element signature="e#1081#1082#0" expanded="true" />
-                <element signature="e#1108#1109#0" expanded="true" />
-                <element signature="e#1149#1150#0" expanded="true" />
-                <element signature="e#1189#1190#0" expanded="true" />
-                <element signature="e#1221#1222#0" expanded="true" />
-                <element signature="e#1249#1250#0" expanded="true" />
-                <element signature="e#1291#1292#0" expanded="true" />
-                <element signature="e#1325#1326#0" expanded="true" />
-                <element signature="e#1376#1377#0" expanded="true" />
-                <element signature="e#1429#1430#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="336">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises9/SecondHandVehicle.java">
+        <entry file="file://$PROJECT_DIR$/src/Questions13/Question1.puml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-              <folding>
-                <element signature="e#366#367#0" expanded="true" />
-                <element signature="e#402#403#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises9/SecondHandVehicleTester.java">
+        <entry file="file://$PROJECT_DIR$/src/Questions13/MyClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="42">
+              <caret line="2" column="68" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Questions13/SomeInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Questions13/SomeClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+              <folding>
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Questions13/TopClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Questions13/Testable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Questions13/Checkable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises9/CarAgency.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="56" column="21" lean-forward="true" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+            <state relative-caret-position="1155">
+              <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises9/SafeSensor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -87,6 +140,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="UML Sequence" />
+        <option value="JUnit4 Test Class" />
+        <option value="UML Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -111,11 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Questions6/MagicWordSquare.java" />
-        <option value="$PROJECT_DIR$/src/Questions6/SomeUsefulArrayMethods.java" />
-        <option value="$PROJECT_DIR$/src/Exercises6/SomeUsefulArrayMethods.java" />
-        <option value="$PROJECT_DIR$/src/Exercises6/SterlingsDollars.java" />
-        <option value="$PROJECT_DIR$/src/Questions6/RaggedArray.java" />
         <option value="$PROJECT_DIR$/src/Questions7/BankAccount.java" />
         <option value="$PROJECT_DIR$/src/Questions7/BankAccountTest.java" />
         <option value="$PROJECT_DIR$/src/Questions7/PasswordGuess.java" />
@@ -162,6 +213,11 @@
         <option value="$PROJECT_DIR$/src/Exercises9/SecondHandVehicle.java" />
         <option value="$PROJECT_DIR$/src/Exercises9/SecondHandVehicleTester.java" />
         <option value="$PROJECT_DIR$/src/Exercises9/CarAgency.java" />
+        <option value="$PROJECT_DIR$/src/Exercises9/SafeSensorTest.java" />
+        <option value="$PROJECT_DIR$/src/Questions13/Question1.puml" />
+        <option value="$PROJECT_DIR$/src/Questions13/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/Questions13/SomeInterface.java" />
+        <option value="$PROJECT_DIR$/src/Questions13/SomeClass.java" />
       </list>
     </option>
   </component>
@@ -171,8 +227,8 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1087" />
   </component>
@@ -184,6 +240,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Ji2S" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Ji2S" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,80 +268,50 @@
               <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ji2S" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ji2S" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ji2S" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ji2S" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ji2S" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Questions9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Questions13" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Ji2S" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Ji2S" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
+    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2988372" />
     <property name="settings.editor.selected.configurable" value="org.plantuml.idea.lang.settings.PlantUmlSettingsPage" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\jazmin.torres\Ji2S\src\Exercises9" />
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Exercises9" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Questions8" />
       <recent name="$PROJECT_DIR$/src/Questions7" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="Exercises8.Sensor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jazmin.torres\Ji2S\src\Exercises9" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -412,7 +450,11 @@
       <workItem from="1561041358176" duration="655000" />
       <workItem from="1561042360230" duration="664000" />
       <workItem from="1561060197841" duration="26000" />
-      <workItem from="1561387423120" duration="9803000" />
+      <workItem from="1561387423120" duration="12990000" />
+      <workItem from="1561472201089" duration="601000" />
+      <workItem from="1561484246755" duration="1778000" />
+      <workItem from="1561655335309" duration="13000" />
+      <workItem from="1562177007213" duration="1751000" />
     </task>
     <task id="LOCAL-00001" summary="Añade el ejercicio 2 del capitulo 4 Iteration">
       <created>1559524933539</created>
@@ -729,11 +771,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561392222545</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Agrega ejercicio 4 del capitulo 9, Classe CarAgency">
+      <created>1561397384995</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1561397384995</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140436000" />
+    <option name="totallyTimeSpent" value="147766000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -745,7 +794,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1087" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -753,7 +802,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5069767" side_tool="true" weight="0.3212121" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49302325" weight="0.43654266" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49302325" visible="true" weight="0.24507658" />
       <window_info id="Structure" order="6" sideWeight="0.50240386" side_tool="true" weight="0.26060605" />
       <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.48827294" weight="0.32502595" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
@@ -767,7 +816,7 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" sideWeight="0.49924242" weight="0.32868218" />
-      <window_info active="true" anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5117271" side_tool="true" visible="true" weight="0.3281412" />
+      <window_info anchor="bottom" x="776" y="888" width="407" height="644" id="Run" order="12" sideWeight="0.5117271" side_tool="true" weight="0.3281412" />
       <window_info anchor="bottom" id="Dependency Viewer" order="13" weight="0.32868218" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
@@ -779,7 +828,7 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" x="0" y="0" width="293" height="572" id="Documentation" order="9" side_tool="true" weight="0.32954547" />
-      <window_info anchor="right" id="PlantUML" order="10" weight="0.38379532" />
+      <window_info anchor="right" id="PlantUML" order="10" weight="0.38293216" />
       <window_info anchor="right" id="LiquibaseEJBModel" order="11" />
       <window_info anchor="right" id="LiquibaseModel" order="12" />
     </layout>
@@ -830,7 +879,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Agrega la pregunta 9 del capitulo 6: Train con array 52x7" />
     <MESSAGE value="Agrega la pregunta 10 del capitulo 6: Magic Word Square 4x4" />
     <MESSAGE value="Agrega la pregunta 11 del capitulo 6: RaggedArray --&gt; search, print and fill" />
     <MESSAGE value="Agrega el ejercicio 2 del capitulo 6: SomeUsefulArrayMethods + varargs, average and greaterAvg" />
@@ -855,65 +903,10 @@
     <MESSAGE value="Agrega Ejercicio 1 y 2 del Capitulo 9. (ExtededOblong, ExtendedOblongTester, Sensor y SafeSensor) y el diagrama uml Robot" />
     <MESSAGE value="Agrega SafeSensorTester del ejercicio 2 del capitulo 9 y hace cambios menores a los demás archivos" />
     <MESSAGE value="Agrega ejercicio 3 del capitulo 9, Vehicle --&gt; SecondHandVehicle --&gt; SecondHandVehicleTester" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agrega ejercicio 3 del capitulo 9, Vehicle --&gt; SecondHandVehicle --&gt; SecondHandVehicleTester" />
+    <MESSAGE value="Agrega ejercicio 4 del capitulo 9, Classe CarAgency" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agrega ejercicio 4 del capitulo 9, Classe CarAgency" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Questions8/SomeClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions8/TestSomeClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises8/TestStudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions8/TestProg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions8/StockItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions8/Bank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises7/Rooms.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="40" column="58" lean-forward="true" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises8/Incubator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises8/IncubatorTester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -1348,46 +1341,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises9/SecondHandVehicleTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises6/SterlingsDollars.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises9/SecondHandVehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-          <folding>
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises9/SafeSensorTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises9/SafeSensor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-          <folding>
-            <element signature="e#861#862#0" expanded="true" />
-            <element signature="e#887#888#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1411,33 +1368,101 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises9/SafeSensorTest.java" />
     <entry file="file://$PROJECT_DIR$/src/Exercises9/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-          <folding>
-            <element signature="e#1022#1023#0" expanded="true" />
-            <element signature="e#1050#1051#0" expanded="true" />
-            <element signature="e#1081#1082#0" expanded="true" />
-            <element signature="e#1108#1109#0" expanded="true" />
-            <element signature="e#1149#1150#0" expanded="true" />
-            <element signature="e#1189#1190#0" expanded="true" />
-            <element signature="e#1221#1222#0" expanded="true" />
-            <element signature="e#1249#1250#0" expanded="true" />
-            <element signature="e#1291#1292#0" expanded="true" />
-            <element signature="e#1325#1326#0" expanded="true" />
-            <element signature="e#1376#1377#0" expanded="true" />
-            <element signature="e#1429#1430#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="504">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises9/SecondHandVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises9/SecondHandVehicleTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises9/CarAgency.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="56" column="21" lean-forward="true" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+        <state relative-caret-position="1155">
+          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises9/SafeSensor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises9/SafeSensorTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions13/Question1.puml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions13/TopClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions13/Testable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions13/Checkable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions13/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="68" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions13/SomeInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions13/SomeClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1448,10 +1473,11 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>Ji2S:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.2988372" />
               </list>
             </option>
           </splitter-proportions>

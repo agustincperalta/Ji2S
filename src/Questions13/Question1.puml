@@ -1,0 +1,12 @@
+@startuml
+
+interface Checkable
+class TopClass
+interface Testable
+class MyClass
+
+MyClass o-- Checkable
+MyClass o-- Testable
+MyClass <|-- TopClass
+
+@enduml
