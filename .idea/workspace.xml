@@ -11,16 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f1b157-31df-4930-8498-d7d1285d7c4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions13/Checkable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions13/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions13/Question1.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions13/SomeClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions13/SomeInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions13/Testable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions13/TopClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions13/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions13/Oblong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions13/Resetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions13/TestResetable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ji2S.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ji2S.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises8/Vehicle.puml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises8/Vehicle.puml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,10 +34,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises9/SafeSensorTester.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises4/Tables.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="432">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises4/VendingMachine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercises8/Apartment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -49,87 +63,58 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Questions13/Question1.puml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="240">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Questions13/MyClass.java">
+        <entry file="file://$PROJECT_DIR$/src/Questions13/SomeClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="68" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+            <state relative-caret-position="120">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Questions13/SomeInterface.java">
+        <entry file="file://$PROJECT_DIR$/src/Questions13/BankAccount.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Questions13/Oblong.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+            <state relative-caret-position="-624">
+              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Questions13/Resetable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Questions13/SomeClass.java">
+        <entry file="file://$PROJECT_DIR$/src/Questions13/TestResetable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-              <folding>
-                <element signature="e#125#126#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="144">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Questions13/TopClass.java">
+        <entry file="file://$PROJECT_DIR$/src/Questions8/BankApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Questions13/Testable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Questions13/Checkable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises9/CarAgency.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1155">
-              <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises9/SafeSensor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            <state relative-caret-position="144">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -167,10 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Questions7/BankAccount.java" />
-        <option value="$PROJECT_DIR$/src/Questions7/BankAccountTest.java" />
-        <option value="$PROJECT_DIR$/src/Questions7/PasswordGuess.java" />
-        <option value="$PROJECT_DIR$/src/Questions7/Oblong.java" />
         <option value="$PROJECT_DIR$/src/Questions7/Apartment.java" />
         <option value="$PROJECT_DIR$/src/Questions7/ApartmentArray.java" />
         <option value="$PROJECT_DIR$/src/Questions7/ApartmentArrayList.java" />
@@ -218,6 +199,10 @@
         <option value="$PROJECT_DIR$/src/Questions13/MyClass.java" />
         <option value="$PROJECT_DIR$/src/Questions13/SomeInterface.java" />
         <option value="$PROJECT_DIR$/src/Questions13/SomeClass.java" />
+        <option value="$PROJECT_DIR$/src/Questions13/BankAccount.java" />
+        <option value="$PROJECT_DIR$/src/Questions13/Oblong.java" />
+        <option value="$PROJECT_DIR$/src/Questions13/Resetable.java" />
+        <option value="$PROJECT_DIR$/src/Questions13/TestResetable.java" />
       </list>
     </option>
   </component>
@@ -227,10 +212,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1087" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-3" />
+    <option name="y" value="-1" />
+    <option name="width" value="1372" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -240,7 +226,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -252,6 +237,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -268,7 +254,17 @@
               <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ji2S" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Questions7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ji2S" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Questions13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ji2S" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -302,16 +298,19 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="Exercises9" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Questions8" />
-      <recent name="$PROJECT_DIR$/src/Questions7" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jazmin.torres\Ji2S\src\Exercises9" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Questions13" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
       <recent name="Exercises8.Sensor" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\jazmin.torres\Ji2S\src\Exercises9" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Questions8" />
+      <recent name="$PROJECT_DIR$/src/Questions7" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -326,7 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CarAgency">
+  <component name="RunManager" selected="Application.TestResetable">
     <configuration name="CarAgency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises9.CarAgency" />
       <module name="Ji2S" />
@@ -379,12 +378,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="e" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Questions9.e" />
+    <configuration name="TestResetable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions13.TestResetable" />
       <module name="Ji2S" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Questions9.*" />
+          <option name="PATTERN" value="Questions13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -393,19 +392,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.e" />
       <item itemvalue="Application.ExtendedOblongTester" />
       <item itemvalue="Application.SafeSensorTester" />
       <item itemvalue="Application.SecondHandVehicleTester" />
       <item itemvalue="Application.CarAgency" />
+      <item itemvalue="Application.TestResetable" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestResetable" />
         <item itemvalue="Application.CarAgency" />
         <item itemvalue="Application.SecondHandVehicleTester" />
         <item itemvalue="Application.SafeSensorTester" />
         <item itemvalue="Application.ExtendedOblongTester" />
-        <item itemvalue="Application.e" />
       </list>
     </recent_temporary>
   </component>
@@ -455,6 +454,7 @@
       <workItem from="1561484246755" duration="1778000" />
       <workItem from="1561655335309" duration="13000" />
       <workItem from="1562177007213" duration="1751000" />
+      <workItem from="1563031114078" duration="1091000" />
     </task>
     <task id="LOCAL-00001" summary="Añade el ejercicio 2 del capitulo 4 Iteration">
       <created>1559524933539</created>
@@ -782,7 +782,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147766000" />
+    <option name="totallyTimeSpent" value="149280000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -794,7 +794,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1087" extended-state="0" />
+    <frame x="-3" y="-1" width="1372" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -802,12 +802,12 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5069767" side_tool="true" weight="0.3212121" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49302325" visible="true" weight="0.24507658" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49302325" visible="true" weight="0.23942599" />
       <window_info id="Structure" order="6" sideWeight="0.50240386" side_tool="true" weight="0.26060605" />
       <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.48827294" weight="0.32502595" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.48636365" weight="0.29874215" />
+      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.48636365" weight="0.29855537" />
       <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.4936034" weight="0.3281412" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5022727" side_tool="true" weight="0.32362458" />
       <window_info anchor="bottom" id="Message" order="6" />
@@ -828,7 +828,7 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" x="0" y="0" width="293" height="572" id="Documentation" order="9" side_tool="true" weight="0.32954547" />
-      <window_info anchor="right" id="PlantUML" order="10" weight="0.38293216" />
+      <window_info anchor="right" id="PlantUML" order="10" weight="0.38293052" />
       <window_info anchor="right" id="LiquibaseEJBModel" order="11" />
       <window_info anchor="right" id="LiquibaseModel" order="12" />
     </layout>
@@ -907,34 +907,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Agrega ejercicio 4 del capitulo 9, Classe CarAgency" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Exercises8/IncubatorTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises8/Sensor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises8/SensorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises8/ApartmentTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises8/TestTimeTable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
@@ -1183,55 +1155,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Questions9/e.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercises4/DisplayEven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises4/Iteration3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions8/BankApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises4/Tables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises4/DisplayStars4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises4/VendingMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises8/Apartment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises9/Oblong.java" />
     <entry file="file://$PROJECT_DIR$/src/Questions7/Oblong.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1414,13 +1337,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Questions13/Question1.puml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Questions13/TopClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -1456,14 +1372,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises4/DisplayEven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises4/DisplayStars4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises4/Iteration3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises4/Tables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises4/VendingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises8/Apartment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions13/Question1.puml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions8/BankApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Questions13/SomeClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="120">
           <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-          <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions13/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions13/Oblong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-624">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions13/Resetable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Questions13/TestResetable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
