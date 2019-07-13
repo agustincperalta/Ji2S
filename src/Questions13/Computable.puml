@@ -1,0 +1,7 @@
+@startuml
+
+interface Computable {
++compute(double, double): double
+}
+
+@enduml
